@@ -1,0 +1,77 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage{array, xcolor, lipsum, bibentry}
+\usepackage[left=0.75in, right=0.75in, top=1.0in, bottom=1.0in]{geometry} % margins
+\usepackage{enumitem}
+%\usepackage{sectsty}
+%\sectionfont{\fontsize{10}{12}\selectfont}
+
+\setlist{nosep} % or \setlist{noitemsep} to leave space around whole list
+%\setlist{noitemsep}
+\setlength\parindent{0pt}
+\begin{document}
+\pagestyle{headings}
+\markright{Resume Prepared \today}
+%\section*{Lijie Ding}
+
+\begin{center}
+    \Large{\textbf{Lijie Ding}} \\
+\end{center}
+\begin{center}
+    \begin{tabular}{l l l}
+        Ph.D Candidate & (401)-410-4049 & Lijie\_Ding@Brown.edu
+    \end{tabular}
+\end{center}
+
+
+\section*{Education}
+Ph.D. (Physics), Brown University \hfill 2017-2022 (expected)\newline
+Research interests: Soft Matter, Computational Physics \newline
+Advisor: Robert A. Pelcovits and Thomas R. Powers
+\\~\\
+B.Sc. (Applied Physics), University of Science and Technology of China \hfill 2013-2017\newline
+Thesis: Irreversible Monte Carlo Algorithms \newline
+Advisor: Youjin Deng
+\section*{Experience}
+\textbf{Monte Carlo simulation of chiral fluid membrane} \hfill 2018-present \newline
+\emph{Research Assistant, Brown University}
+\begin{itemize}
+    \item Designed \textbf{quantitative models} and implemented Monte Carlo simulation for \textbf{complex systems} using \textbf{C++}.
+    \item Worked with computing cluster using \textbf{Slurm} workload manager in commend-line interface.
+    \item Analyze and visualize data using \textbf{Python}. Present results to people with different backgrounds.
+\end{itemize}
+~\\
+\textbf{Controlled DNA Brownian motion using electrokinetic noise} \hfill 2017-2018 \newline
+\emph{Teaching Assistant, Brown University}
+\begin{itemize}
+    \item Proposed and tested the \textbf{stochastic process} modeling hypothesis for the system studied.
+    \item Designed and implemented \textbf{image processing} program for DNA molecule tracking, and analyzed \textbf{time-series} data using \textbf{Python} and \textbf{OpenCV}.
+    \item Carried out experiment in collaboration with others.
+\end{itemize}
+~\\
+\textbf{Irreversible Monte Carlo algorithms} \hfill 2015-2017 \newline
+\emph{Undergraduate Research Assistant, University of Science and Technology of China}
+\begin{itemize}
+    \item Designed state-of-the-art Monte Carlo \textbf{algorithm} and implemented it using \textbf{C++}.
+    \item Carried out \textbf{efficiency benchmarking}, and analyzed data using \textbf{Python}, up to 14,100\% improvement were achieved.
+\end{itemize}
+\section*{Skills}
+\textbf{Programming}: C++, Python, Mathematica, Matlab, Shell, Latex, HTML/CSS. \newline
+\textbf{Software}: Numpy, Scipy, OpenCV, Matplotlib, Blender, Git. \newline
+\textbf{Technical}: Complex systems modeling, Statistical algorithms development, Data analysis and visualization.
+%Language: English (Fluent), Chinese (Native).
+\section*{Publications}
+\bibliographystyle{plain}
+\nobibliography{publication}
+\begin{enumerate}
+    \item \bibentry{ding2021deformation}
+    \item \bibentry{ding2020shapes}
+    \item \bibentry{lameh2020controlled}
+    \item \bibentry{elcci2018lifted}
+\end{enumerate}
+
+%\section*{Award}
+%\begin{tabular}{l p{\linewidth}}
+%2015\&2016 & Natinal Scholarship, P.R.China \\
+%\end{tabular}
+
+\end{document}
