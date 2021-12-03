@@ -1,13 +1,17 @@
-\documentclass[10pt,letterpaper]{article}
+\documentclass[11pt,letterpaper]{article}
 \usepackage{array, xcolor, lipsum, bibentry}
-\usepackage[left=0.75in, right=0.75in, top=1.0in, bottom=1.0in]{geometry} % margins
+\usepackage[left=0.7in, right=0.7in, top=0.8in, bottom=0.8in]{geometry} % margins
 \usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{etaremune}
+\usepackage{hyperref}
 %\usepackage{sectsty}
 %\sectionfont{\fontsize{10}{12}\selectfont}
 
-\setlist{nosep} % or \setlist{noitemsep} to leave space around whole list
-%\setlist{noitemsep}
+%\setlist{nosep} % or \setlist{noitemsep} to leave space around whole list
+\setlist{noitemsep}
 \setlength\parindent{0pt}
+
 \begin{document}
 \pagestyle{headings}
 \markright{Resume Prepared \today}
@@ -17,18 +21,18 @@
     \Large{\textbf{Lijie Ding}} \\
 \end{center}
 \begin{center}
-    \begin{tabular}{l l l}
-        Ph.D Candidate & (401)-410-4049 & Lijie\_Ding@Brown.edu
+    \begin{tabular}{l l l l}
+        Ph.D Candidate & (401)-410-4049 & Lijie\_Ding@Brown.edu & \href{https://ljding94.github.io/file/cv_resume/cv.pdf}{CV}
     \end{tabular}
 \end{center}
 
 
 \section*{Education}
-Ph.D. (Physics), Brown University \hfill 2017-2022 (expected)\newline
+Ph.D. in Physics, Brown University \hfill 2017-2022 (expected)\newline
 Research interests: Soft Matter, Computational Physics \newline
 Advisor: Robert A. Pelcovits and Thomas R. Powers
 \\~\\
-B.Sc. (Applied Physics), University of Science and Technology of China \hfill 2013-2017\newline
+B.Sc. in Applied Physics, University of Science and Technology of China \hfill 2013-2017\newline
 Thesis: Irreversible Monte Carlo Algorithms \newline
 Advisor: Youjin Deng
 \section*{Experience}
@@ -37,7 +41,7 @@ Advisor: Youjin Deng
 \begin{itemize}
     \item Designed \textbf{quantitative models} and implemented Monte Carlo simulation for \textbf{complex systems} using \textbf{C++}.
     \item Worked with computing cluster using \textbf{Slurm} workload manager in commend-line interface.
-    \item Analyze and visualize data using \textbf{Python}. Present results to people with different backgrounds.
+    \item Analyze and visualized data using \textbf{Python}, present results to people with different backgrounds.
 \end{itemize}
 ~\\
 \textbf{Controlled DNA Brownian motion using electrokinetic noise} \hfill 2017-2018 \newline
@@ -45,7 +49,7 @@ Advisor: Youjin Deng
 \begin{itemize}
     \item Proposed and tested the \textbf{stochastic process} modeling hypothesis for the system studied.
     \item Designed and implemented \textbf{image processing} program for DNA molecule tracking, and analyzed \textbf{time-series} data using \textbf{Python} and \textbf{OpenCV}.
-    \item Carried out experiment in collaboration with others.
+    \item Carried out experiment in \textbf{collaboration} with others.
 \end{itemize}
 ~\\
 \textbf{Irreversible Monte Carlo algorithms} \hfill 2015-2017 \newline
@@ -57,17 +61,13 @@ Advisor: Youjin Deng
 \section*{Skills}
 \textbf{Programming}: C++, Python, Mathematica, Matlab, Shell, Latex, HTML/CSS. \newline
 \textbf{Software}: Numpy, Scipy, OpenCV, Matplotlib, Blender, Git. \newline
-\textbf{Technical}: Complex systems modeling, Statistical algorithms development, Data analysis and visualization.
+\textbf{Technical}: Complex systems modeling, Statistical algorithms development, Data analysis and visualization. \newline
+\textbf{Communication}: Public speaking, Lecturing.
 %Language: English (Fluent), Chinese (Native).
+
 \section*{Publications}
-\bibliographystyle{plain}
-\nobibliography{publication}
-\begin{enumerate}
-    \item \bibentry{ding2021deformation}
-    \item \bibentry{ding2020shapes}
-    \item \bibentry{lameh2020controlled}
-    \item \bibentry{elcci2018lifted}
-\end{enumerate}
+See corresponding section in \href{https://ljding94.github.io/file/cv_resume/cv.pdf}{CV}
+
 
 %\section*{Award}
 %\begin{tabular}{l p{\linewidth}}

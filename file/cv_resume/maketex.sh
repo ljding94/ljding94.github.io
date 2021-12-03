@@ -1,9 +1,9 @@
 mainname=$1
-#me=Lijie_Ding_
-xelatex ${me}${mainname}.tex
-bibtex ${me}${mainname}
-xelatex ${me}${mainname}.tex
-xelatex ${me}${mainname}.tex
+me=_lding
+xelatex ${mainname}${me}.tex
+bibtex ${mainname}${me}
+xelatex ${mainname}${me}.tex
+xelatex ${mainname}${me}.tex
 
 rm  *.aux *.log  *.blg  mainNotes.bib
 
