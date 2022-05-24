@@ -7,4 +7,4 @@ xelatex ${mainname}${me}.tex
 
 rm  *.aux *.log  *.blg  mainNotes.bib
 
-open ${me}${mainname}.pdf
+open ${mainname}${me}.pdf
