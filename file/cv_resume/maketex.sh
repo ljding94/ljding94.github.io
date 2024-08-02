@@ -5,6 +5,6 @@ bibtex ${mainname}${me}
 xelatex ${mainname}${me}.tex
 xelatex ${mainname}${me}.tex
 
-rm  *.aux *.log  *.blg  mainNotes.bib
+rm  *.aux *.log  *.blg
 
 open ${mainname}${me}.pdf

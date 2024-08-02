@@ -1,3 +1,4 @@
+
 # Options, futures and other derivatives
 
 ## 1. Introduction
@@ -55,20 +56,5 @@
 ## 27. More on models and numerical procedures
 
 ## TBC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

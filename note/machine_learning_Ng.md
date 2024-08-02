@@ -8,7 +8,7 @@
 
 ### Parameter Learning
 - Gradient Descent
-    $\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j}J(\theta_0,\theta_1)$
+    - $\theta_j = \theta_j - \alpha \frac{\partial}{\partial \theta_j}J(\theta_0,\theta_1)$
     - $\alpha$:learning rate
     - $J(\theta_0,\theta_1)$: cost function
 - Gradient Descent Intuition
@@ -42,9 +42,8 @@
     - non-linear decision boundary: polynomial in $g(\sim x)$, e.g. $g(\theta_1x_1^2+\theta_2x_2^2)$
 
 ### Logistic regression model
-- cost function
-    - Linear regression: $J(\theta) = \frac{1}{m}\sum_{i=1}^{m}Cost(h_\theta(x^{(i)}),y^{(i)})$
-    - $Cost(h_\theta(x^{(i)}),y^{(i)})=\frac{1}{2}(h_\theta(x^{(i)})-y^{(i)})^2$
+- cost function $$J(\theta) = \frac{1}{m}\sum_{i=1}^{m}Cost(h_\theta(x^{(i)}),y^{(i)})$$
+    - Linear regression: $$Cost(h_\theta(x^{(i)}),y^{(i)})=\frac{1}{2}(h_\theta(x^{(i)})-y^{(i)})^2$$
     - Logistic regression: $$Cost(h_\theta(x),y)=\begin{cases} -log(h_\theta(x)) & y=1 \\-log(1-h_\theta(x)) & y=0\end{cases}$$
 
 - simplified cost function and gradient descent
@@ -69,7 +68,7 @@
 - address overfitting:
     - 1. reduce number of features
     - 2. regularization: keep all the features but reduce magnitude/values of $\theta$
-- cost function: $J(\theta)=\frac{1}{m}\sum_{i=1}^{m}Cost(h_\theta(x^{(i)}),y^{(i)})+\lambda\sum_{j=1}^{n}\theta_j^2$
+- cost function: $$J(\theta)=\frac{1}{m}\sum_{i=1}^{m}Cost(h_\theta(x^{(i)}),y^{(i)})+\lambda\sum_{j=1}^{n}\theta_j^2$$
 - Regularized linear regression
     - gradient descent: $\frac{\partial}{\partial\theta_j}J(\theta) = \frac{1}{m}\sum_{i=1}^m(h_\theta(x^{(i)})-y^{(i)})x^{(i)}_j+\frac{\lambda}{m}\theta_j$
     - normal equation: $(X^TX+\lambda L)\theta=X^Ty$, $L=diag(0,1,...,1)$
@@ -121,3 +120,65 @@
 
 
 ### Application of neural networks
+- autonomous driving
+
+
+## Advice for applying machine learning
+
+### Evaluating a learning algorithm
+- deciding what to try next
+    - possible choices
+        - get more training examples
+        - try smaller sets of features
+        - try getting additional features
+        - try adding polynomial features
+        - try decreasing $\lambda$
+        - try increasing $\lambda$
+    - machine learning diagnostic
+- evaluating a hypothesis
+    - training set and test set
+        - learn $\theta$ from training data
+        - compute test set error
+        - misclassification error (0/1 error)
+- modeling selection and train/validation/test set
+    - model selection itself is another fitting parameter
+    - training + cross validation + test ~ 60%+20%+20%
+    - training error(parameter) + cross validation error(model selection parameter) + test error(generalization error)
+### Bias vs. variance
+- diagnosing bias vs variance
+    - bias -> high training error + high validation error
+    - variance -> low training error + high validation error
+
+- regularization and bias/variance
+
+- learning curves
+    - J vs. m (training set size)
+    - bias -> J levels off, getting more data not helping
+    - variance -> large gap between J train and J validation: more data fo helps
+
+- deciding what do next revisited
+    - high variance
+        - more training examples
+        - smaller sets of features
+        - increasing $\lambda$
+    - high bias
+        - additional features
+        - adding polynomial features
+        - decreasing $\lambda$
+
+
+
+## Support vector machines
+
+### Large margin classification
+    - optimization objective
+
+### kernels
+
+### SVMs in Proctice
+
+
+
+
+
+
