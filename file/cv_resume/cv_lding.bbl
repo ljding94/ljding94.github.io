@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{ding2020shapes}
 Lijie Ding, Robert~A Pelcovits, and Thomas~R Powers.
@@ -53,5 +53,12 @@ Shayan Lameh, Lijie Ding, and Derek Stein.
 \newblock {Controlled Amplification of DNA Brownian Motion Using Electrokinetic
   Noise}.
 \newblock {\em Physical Review Applied}, 14(5):054042, 2020.
+
+\bibitem{Tung2024Adiscretized}
+Chi-Huan Tung, Lijie Ding, Guan-Rong Huang, Yangyang Wang, Jan-Michael~Y.
+  Carrillo, Bobby~G. Sumpter, Yuya Shinohara, Changwoo Do, and Wei-Ren Chen.
+\newblock A discretized representation for monte carlo simulation of deformed
+  semiflexible chains.
+\newblock {\em The Journal of Chemical Physics}, 161(22):224107, 12 2024.
 
 \end{thebibliography}
