@@ -1,107 +1,158 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{ding2024colloids}
-Lijie Ding, Yihao Chen, and Changwoo Do.
-\newblock Machine learning-informed scattering correlation analysis of sheared
-  colloids.
-\newblock {\em arXiv preprint arXiv:2412.07926}, 2024.
-
-\bibitem{ding2020shapes}
+\bibitem[Ding et~al.(2020)Ding, Pelcovits, and Powers]{ding2020shapes}
 Lijie Ding, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock {Shapes of fluid membranes with chiral edges}.
-\newblock {\em Physical Review E}, 102(3):032608, 2020.
+\newblock \emph{Physical Review E}, 102\penalty0 (3):\penalty0 032608, 2020.
+\newblock \doi{https://doi.org/10.1103/PhysRevE.102.032608}.
 
-\bibitem{ding2021deformation}
+\bibitem[Ding et~al.(2021)Ding, Pelcovits, and Powers]{ding2021deformation}
 Lijie Ding, Robert~A. Pelcovits, and Thomas~R. Powers.
 \newblock {Deformation and orientational order of chiral membranes with free
   edges}.
-\newblock {\em Soft Matter}, 17:6580--6588, 2021.
+\newblock \emph{Soft Matter}, 17:\penalty0 6580--6588, 2021.
+\newblock \doi{https://doi.org/10.1039/D1SM00629K}.
 
-\bibitem{ding2023chiral}
+\bibitem[Ding et~al.(2023)Ding, Pelcovits, and Powers]{ding2023chiral}
 Lijie Ding, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Chiral fluid membranes with orientational order and multiple edges.
-\newblock {\em Soft Matter}, 19(43):8453--8464, 2023.
+\newblock \emph{Soft Matter}, 19\penalty0 (43):\penalty0 8453--8464, 2023.
+\newblock \doi{https://doi.org/10.1039/D3SM01158E}.
 
-\bibitem{ding2024ladderpolymer}
+\bibitem[Ding et~al.(2024{\natexlab{a}})Ding, Tung, Sumpter, Chen, and
+  Do]{ding2024machine}
+Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
+\newblock Machine learning inversion from scattering for mechanically driven
+  polymers.
+\newblock \emph{arXiv preprint arXiv:2410.05574}, 2024{\natexlab{a}}.
+
+\bibitem[Ding et~al.(2024{\natexlab{b}})Ding, Tung, Sumpter, Chen, and
+  Do]{ding2024off}
+Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
+\newblock Off-lattice markov chain monte carlo simulations of mechanically
+  driven polymers.
+\newblock \emph{Journal of Chemical Theory and Computation}, 20\penalty0
+  (23):\penalty0 10697--10702, 2024{\natexlab{b}}.
+\newblock \doi{https://doi.org/10.1021/acs.jctc.4c01260}.
+
+\bibitem[Ding et~al.(2025{\natexlab{a}})Ding, Chen, and Do]{ding2025colloids}
+Lijie Ding, Yihao Chen, and Changwoo Do.
+\newblock Machine learning-informed scattering correlation analysis of sheared
+  colloids.
+\newblock \emph{Applied Crystallography}, 2025{\natexlab{a}}.
+\newblock \doi{https://doi.org/10.1107/S1600576725003280}.
+
+\bibitem[Ding et~al.(2025{\natexlab{b}})Ding, Pelcovits, and
+  Powers]{ding2025brownian}
+Lijie Ding, Robert~A Pelcovits, and Thomas~R Powers.
+\newblock Brownian dynamics simulations of inclusions in an active fluid bath.
+\newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{b}}.
+
+\bibitem[Ding et~al.(2025{\natexlab{c}})Ding, Tung, Cao, Ye, Gu, Xia, Chen, and
+  Do]{ding2025ladder}
 Lijie Ding, Chi-Huan Tung, Zhiqiang Cao, Zekun Ye, Xiaodan Gu, Yan Xia, Wei-Ren
   Chen, and Changwoo Do.
-\newblock Machine learning-assisted profiling of ladder polymer structure using
-  scattering.
-\newblock {\em arXiv preprint arXiv:2411.00134}, 2024.
+\newblock Machine learning-assisted profiling of a kinked ladder polymer
+  structure using scattering.
+\newblock \emph{Digital Discovery}, 2025{\natexlab{c}}.
+\newblock \doi{https://doi.org/10.1039/D5DD00051C}.
 
-\bibitem{ding2025machine}
+\bibitem[Ding et~al.(2025{\natexlab{d}})Ding, Tung, Carrillo, Chen, and
+  Do]{ding2025machine}
 Lijie Ding, Chi-Huan Tung, Jan-Michael~Y Carrillo, Wei-Ren Chen, and Changwoo
   Do.
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
-\newblock {\em arXiv preprint arXiv:2501.14647}, 2025.
+\newblock \emph{arXiv preprint arXiv:2501.14647}, 2025{\natexlab{d}}.
 
-\bibitem{ding2024machine}
-Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
-\newblock Machine learning inversion from scattering for mechanically driven
-  polymers.
-\newblock {\em arXiv preprint arXiv:2410.05574}, 2024.
-
-\bibitem{ding2024off}
-Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
-\newblock Off-lattice markov chain monte carlo simulations of mechanically
-  driven polymers.
-\newblock {\em Journal of Chemical Theory and Computation},
-  20(23):10697--10702, 2024.
-
-\bibitem{ding2025deciphering}
+\bibitem[Ding et~al.(2025{\natexlab{e}})Ding, Tung, Sumpter, Chen, and
+  Do]{ding2025deciphering}
 Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
 \newblock Deciphering the scattering of mechanically driven polymers using deep
   learning.
-\newblock {\em Journal of Chemical Theory and Computation}, 21(8):4176--4182,
-  2025.
+\newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
+  (8):\penalty0 4176--4182, 2025{\natexlab{e}}.
+\newblock \doi{https://doi.org/10.1021/acs.jctc.5c00409}.
 
-\bibitem{elcci2018lifted}
+\bibitem[El{\c{c}}i et~al.(2018)El{\c{c}}i, Grimm, Ding, Nasrawi, Garoni, and
+  Deng]{elcci2018lifted}
 Eren~Metin El{\c{c}}i, Jens Grimm, Lijie Ding, Abrahim Nasrawi, Timothy~M
   Garoni, and Youjin Deng.
 \newblock {Lifted worm algorithm for the Ising model}.
-\newblock {\em Physical Review E}, 97(4):042126, 2018.
+\newblock \emph{Physical Review E}, 97\penalty0 (4):\penalty0 042126, 2018.
+\newblock \doi{https://doi.org/10.1103/PhysRevE.97.042126}.
 
-\bibitem{khan2019yourself}
+\bibitem[Huang et~al.(2025)Huang, Porcar, Murphy, Shinohara, Wang, Carrillo,
+  Sumpter, Tung, Ding, Do, and Chen]{huang2025elongated}
+Guan-Rong Huang, Lionel Porcar, Ryan~P Murphy, Yuya Shinohara, Yangyang Wang,
+  Jan-Michael Carrillo, Bobby~G Sumpter, Chi-Huan Tung, Lijie Ding, Changwoo
+  Do, and Wei-Ren Chen.
+\newblock Elongated particles in flow: Commentary on small angle scattering
+  investigations.
+\newblock \emph{Applied Crystallography}, 2025.
+\newblock \doi{https://doi.org/10.1107/S1600576725002900}.
+
+\bibitem[Khan et~al.(2019)Khan, Qaiser, Shaikh, Ding, and
+  Hussain]{khan2019yourself}
 Sherjeel~M Khan, Nadeem Qaiser, Sohail~F Shaikh, Lijie~J Ding, and Muhammad~M
   Hussain.
 \newblock Do-it-yourself integration of a paper sensor in a smart lid for
   medication adherence.
-\newblock {\em Flexible and Printed Electronics}, 4(2):025001, 2019.
+\newblock \emph{Flexible and Printed Electronics}, 4\penalty0 (2):\penalty0
+  025001, 2019.
+\newblock \doi{https://doi.org/10.1088/2058-8585/ab10f5}.
 
-\bibitem{lameh2020controlled}
+\bibitem[Lameh et~al.(2020)Lameh, Ding, and Stein]{lameh2020controlled}
 Shayan Lameh, Lijie Ding, and Derek Stein.
 \newblock {Controlled Amplification of DNA Brownian Motion Using Electrokinetic
   Noise}.
-\newblock {\em Physical Review Applied}, 14(5):054042, 2020.
+\newblock \emph{Physical Review Applied}, 14\penalty0 (5):\penalty0 054042,
+  2020.
+\newblock \doi{https://doi.org/10.1103/PhysRevApplied.14.054042}.
 
-\bibitem{tung2025scattering}
+\bibitem[Tung et~al.(2024)Tung, Ding, Huang, Wang, Carrillo, Sumpter,
+  Shinohara, Do, and Chen]{Tung2024Adiscretized}
+Chi-Huan Tung, Lijie Ding, Guan-Rong Huang, Yangyang Wang, Jan-Michael~Y.
+  Carrillo, Bobby~G. Sumpter, Yuya Shinohara, Changwoo Do, and Wei-Ren Chen.
+\newblock A discretized representation for monte carlo simulation of deformed
+  semiflexible chains.
+\newblock \emph{The Journal of Chemical Physics}, 161\penalty0 (22):\penalty0
+  224107, 12 2024.
+\newblock \doi{https://doi.org/10.1063/5.0235798}.
+
+\bibitem[Tung et~al.(2025{\natexlab{a}})Tung, Ding, Chang, Huang, Porcar, Wang,
+  Carrillo, Sumpter, Shinohara, Do, et~al.]{tung2025scattering}
 Chi-Huan Tung, Lijie Ding, Ming-Ching Chang, Guan-Rong Huang, Lionel Porcar,
   Yangyang Wang, Jan-Michael~Y Carrillo, Bobby~G Sumpter, Yuya Shinohara,
   Changwoo Do, et~al.
 \newblock Scattering-based structural inversion of soft materials via
   kolmogorov--arnold networks.
-\newblock {\em The Journal of Chemical Physics}, 162(7), 2025.
+\newblock \emph{The Journal of Chemical Physics}, 162\penalty0 (7),
+  2025{\natexlab{a}}.
+\newblock \doi{https://doi.org/10.1063/5.0253877}.
 
-\bibitem{tung2025insights}
+\bibitem[Tung et~al.(2025{\natexlab{b}})Tung, Ding, Huang, Porcar, Shinohara,
+  Sumpter, Do, and Chen]{tung2025insights}
 Chi-Huan Tung, Lijie Ding, G-R Huang, Lionel Porcar, Yuya Shinohara, Bobby~G
   Sumpter, Changwoo Do, and W-R Chen.
 \newblock Insights into distorted lamellar phases with small-angle scattering
   and machine learning.
-\newblock {\em Applied Crystallography}, 58(2), 2025.
+\newblock \emph{Applied Crystallography}, 58\penalty0 (2), 2025{\natexlab{b}}.
+\newblock \doi{https://doi.org/10.1107/S1600576725000317}.
 
-\bibitem{Tung2024Adiscretized}
-Chi-Huan Tung, Lijie Ding, Guan-Rong Huang, Yangyang Wang, Jan-Michael~Y.
-  Carrillo, Bobby~G. Sumpter, Yuya Shinohara, Changwoo Do, and Wei-Ren Chen.
-\newblock A discretized representation for monte carlo simulation of deformed
-  semiflexible chains.
-\newblock {\em The Journal of Chemical Physics}, 161(22):224107, 12 2024.
-
-\bibitem{tung2025unlocking}
+\bibitem[Tung et~al.(2025{\natexlab{c}})Tung, Yip, Huang, Porcar, Shinohara,
+  Sumpter, Ding, Do, and Chen]{tung2025unlocking}
 Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   Bobby~G Sumpter, Lijie Ding, Changwoo Do, and Wei-Ren Chen.
 \newblock Unlocking hidden information in sparse small-angle neutron scattering
   measurements.
-\newblock {\em Journal of Colloid and Interface Science}, page 137554, 2025.
+\newblock \emph{Journal of Colloid and Interface Science}, page 137554,
+  2025{\natexlab{c}}.
+\newblock \doi{https://doi.org/10.1016/j.jcis.2025.137554}.
 
 \end{thebibliography}
