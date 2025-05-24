@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -145,14 +145,21 @@ Chi-Huan Tung, Lijie Ding, G-R Huang, Lionel Porcar, Yuya Shinohara, Bobby~G
 \newblock \emph{Applied Crystallography}, 58\penalty0 (2), 2025{\natexlab{b}}.
 \newblock \doi{https://doi.org/10.1107/S1600576725000317}.
 
-\bibitem[Tung et~al.(2025{\natexlab{c}})Tung, Yip, Huang, Porcar, Shinohara,
+\bibitem[Tung et~al.(2025{\natexlab{c}})Tung, Ding, Shinohara, Huang, Carrillo,
+  Chen, and Do]{tung2025universal}
+Chi-Huan Tung, Lijie Ding, Yuya Shinohara, Guan-Rong Huang, Jan-Michael
+  Carrillo, Wei-Ren Chen, and Changwoo Do.
+\newblock Universal convergence metric for time-resolved neutron scattering.
+\newblock \emph{arXiv preprint arXiv:2505.13512}, 2025{\natexlab{c}}.
+
+\bibitem[Tung et~al.(2025{\natexlab{d}})Tung, Yip, Huang, Porcar, Shinohara,
   Sumpter, Ding, Do, and Chen]{tung2025unlocking}
 Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   Bobby~G Sumpter, Lijie Ding, Changwoo Do, and Wei-Ren Chen.
 \newblock Unlocking hidden information in sparse small-angle neutron scattering
   measurements.
 \newblock \emph{Journal of Colloid and Interface Science}, page 137554,
-  2025{\natexlab{c}}.
+  2025{\natexlab{d}}.
 \newblock \doi{https://doi.org/10.1016/j.jcis.2025.137554}.
 
 \end{thebibliography}
