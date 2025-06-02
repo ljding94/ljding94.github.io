@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -47,36 +47,42 @@ Lijie Ding, Yihao Chen, and Changwoo Do.
 \newblock \emph{Applied Crystallography}, 2025{\natexlab{a}}.
 \newblock \doi{https://doi.org/10.1107/S1600576725003280}.
 
-\bibitem[Ding et~al.(2025{\natexlab{b}})Ding, Pelcovits, and
+\bibitem[Ding et~al.(2025{\natexlab{b}})Ding, Lu, and Cheung]{ding2025fast}
+Lijie Ding, Egang Lu, and Kin Cheung.
+\newblock Fast derivative valuation from volatility surfaces using machine
+  learning.
+\newblock \emph{arXiv preprint arXiv:2505.22957}, 2025{\natexlab{b}}.
+
+\bibitem[Ding et~al.(2025{\natexlab{c}})Ding, Pelcovits, and
   Powers]{ding2025brownian}
 Lijie Ding, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Brownian dynamics simulations of inclusions in an active fluid bath.
-\newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{b}}.
+\newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{c}}.
 
-\bibitem[Ding et~al.(2025{\natexlab{c}})Ding, Tung, Cao, Ye, Gu, Xia, Chen, and
+\bibitem[Ding et~al.(2025{\natexlab{d}})Ding, Tung, Cao, Ye, Gu, Xia, Chen, and
   Do]{ding2025ladder}
 Lijie Ding, Chi-Huan Tung, Zhiqiang Cao, Zekun Ye, Xiaodan Gu, Yan Xia, Wei-Ren
   Chen, and Changwoo Do.
 \newblock Machine learning-assisted profiling of a kinked ladder polymer
   structure using scattering.
-\newblock \emph{Digital Discovery}, 2025{\natexlab{c}}.
+\newblock \emph{Digital Discovery}, 2025{\natexlab{d}}.
 \newblock \doi{https://doi.org/10.1039/D5DD00051C}.
 
-\bibitem[Ding et~al.(2025{\natexlab{d}})Ding, Tung, Carrillo, Chen, and
+\bibitem[Ding et~al.(2025{\natexlab{e}})Ding, Tung, Carrillo, Chen, and
   Do]{ding2025machine}
 Lijie Ding, Chi-Huan Tung, Jan-Michael~Y Carrillo, Wei-Ren Chen, and Changwoo
   Do.
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
-\newblock \emph{arXiv preprint arXiv:2501.14647}, 2025{\natexlab{d}}.
+\newblock \emph{arXiv preprint arXiv:2501.14647}, 2025{\natexlab{e}}.
 
-\bibitem[Ding et~al.(2025{\natexlab{e}})Ding, Tung, Sumpter, Chen, and
+\bibitem[Ding et~al.(2025{\natexlab{f}})Ding, Tung, Sumpter, Chen, and
   Do]{ding2025deciphering}
 Lijie Ding, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and Changwoo Do.
 \newblock Deciphering the scattering of mechanically driven polymers using deep
   learning.
 \newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
-  (8):\penalty0 4176--4182, 2025{\natexlab{e}}.
+  (8):\penalty0 4176--4182, 2025{\natexlab{f}}.
 \newblock \doi{https://doi.org/10.1021/acs.jctc.5c00409}.
 
 \bibitem[El{\c{c}}i et~al.(2018)El{\c{c}}i, Grimm, Ding, Nasrawi, Garoni, and
