@@ -20,7 +20,8 @@ Guan-Rong Huang, Lionel Porcar, Ryan~P Murphy, Yuya Shinohara, Yangyang Wang,
   \textbf{Ding}, Changwoo Do, and Wei-Ren Chen.
 \newblock Elongated particles in flow: Commentary on small angle scattering
   investigations.
-\newblock \emph{Applied Crystallography}, 2025.
+\newblock \emph{Applied Crystallography}, 58\penalty0 (3):\penalty0 637--658,
+  2025.
 \newblock \doi{https://doi.org/10.1107/S1600576725002900}.
 
 \bibitem[Khan et~al.(2019)Khan, Qaiser, Shaikh, \textbf{Ding}, and
@@ -87,8 +88,8 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \textbf{Lijie} \textbf{Ding}, Yihao Chen, and Changwoo Do.
 \newblock Machine learning-informed scattering correlation analysis of sheared
   colloids.
-\newblock \emph{Applied Crystallography}, 2025{\natexlab{a}}.
-\newblock \doi{https://doi.org/10.1107/S1600576725003280}.
+\newblock \emph{Applied Crystallography}, 58\penalty0 (3):\penalty0 992--999,
+  2025{\natexlab{a}}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{b}})\textbf{Ding}, Lu, and
   Cheung]{ding2025fast}
@@ -109,7 +110,8 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   Chen, and Changwoo Do.
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
-\newblock \emph{arXiv preprint arXiv:2501.14647}, 2025{\natexlab{d}}.
+\newblock \emph{Digital Discovery}, pages~--, 2025{\natexlab{d}}.
+\newblock \doi{https://doi.org/10.1039/D5DD00038F}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2025deciphering}
@@ -127,8 +129,16 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   Gu, Yan Xia, Wei-Ren Chen, and Changwoo Do.
 \newblock Machine learning-assisted profiling of a kinked ladder polymer
   structure using scattering.
-\newblock \emph{Digital Discovery}, 2025.
+\newblock \emph{Digital Discovery}, 4:\penalty0 1570--1577, 2025.
 \newblock \doi{https://doi.org/10.1039/D5DD00051C}.
+
+\bibitem[Tung et~al.()Tung, \textbf{Ding}, Huang, Porcar, Shinohara, Sumpter,
+  Do, and Chen]{tung2025insights}
+Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, G-R Huang, Lionel Porcar, Yuya
+  Shinohara, Bobby~G Sumpter, Changwoo Do, and W-R Chen.
+\newblock Insights into distorted lamellar phases with small-angle scattering
+  and machine learning.
+\newblock \emph{Applied Crystallography}, 58:\penalty0 523--534.
 
 \bibitem[Tung et~al.(2024)Tung, \textbf{Ding}, Huang, Wang, Carrillo, Sumpter,
   Shinohara, Do, and Chen]{Tung2024Adiscretized}
@@ -152,30 +162,21 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Ming-Ching Chang, Guan-Rong Huang,
   2025{\natexlab{a}}.
 \newblock \doi{https://doi.org/10.1063/5.0253877}.
 
-\bibitem[Tung et~al.(2025{\natexlab{b}})Tung, \textbf{Ding}, Huang, Porcar,
-  Shinohara, Sumpter, Do, and Chen]{tung2025insights}
-Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, G-R Huang, Lionel Porcar, Yuya
-  Shinohara, Bobby~G Sumpter, Changwoo Do, and W-R Chen.
-\newblock Insights into distorted lamellar phases with small-angle scattering
-  and machine learning.
-\newblock \emph{Applied Crystallography}, 58\penalty0 (2), 2025{\natexlab{b}}.
-\newblock \doi{https://doi.org/10.1107/S1600576725000317}.
-
-\bibitem[Tung et~al.(2025{\natexlab{c}})Tung, \textbf{Ding}, Shinohara, Huang,
+\bibitem[Tung et~al.(2025{\natexlab{b}})Tung, \textbf{Ding}, Shinohara, Huang,
   Carrillo, Chen, and Do]{tung2025universal}
 Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Yuya Shinohara, Guan-Rong Huang,
   Jan-Michael Carrillo, Wei-Ren Chen, and Changwoo Do.
 \newblock Universal convergence metric for time-resolved neutron scattering.
-\newblock \emph{arXiv preprint arXiv:2505.13512}, 2025{\natexlab{c}}.
+\newblock \emph{arXiv preprint arXiv:2505.13512}, 2025{\natexlab{b}}.
 
-\bibitem[Tung et~al.(2025{\natexlab{d}})Tung, Yip, Huang, Porcar, Shinohara,
+\bibitem[Tung et~al.(2025{\natexlab{c}})Tung, Yip, Huang, Porcar, Shinohara,
   Sumpter, \textbf{Ding}, Do, and Chen]{tung2025unlocking}
 Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   Bobby~G Sumpter, \textbf{Lijie} \textbf{Ding}, Changwoo Do, and Wei-Ren Chen.
 \newblock Unlocking hidden information in sparse small-angle neutron scattering
   measurements.
 \newblock \emph{Journal of Colloid and Interface Science}, page 137554,
-  2025{\natexlab{d}}.
+  2025{\natexlab{c}}.
 \newblock \doi{https://doi.org/10.1016/j.jcis.2025.137554}.
 
 \end{thebibliography}
