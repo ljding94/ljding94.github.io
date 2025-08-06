@@ -70,23 +70,14 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock \emph{Soft Matter}, 19\penalty0 (43):\penalty0 8453--8464, 2023.
 \newblock DOI: \href{https://doi.org/10.1039/D3SM01158E}{10.1039/D3SM01158E}.
 
-\bibitem[\textbf{Ding} et~al.(2024{\natexlab{a}})\textbf{Ding}, Tung, Sumpter,
-  Chen, and Do]{ding2024MLsemiflexiblepolymer}
-\textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
-  Changwoo Do.
-\newblock Machine learning inversion from scattering for mechanically driven
-  polymers.
-\newblock \emph{arXiv preprint arXiv:2410.05574}, 2024{\natexlab{a}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2410.05574}{2410.05574}.
-
-\bibitem[\textbf{Ding} et~al.(2024{\natexlab{b}})\textbf{Ding}, Tung, Sumpter,
-  Chen, and Do]{ding2024offlattice}
+\bibitem[\textbf{Ding} et~al.(2024)\textbf{Ding}, Tung, Sumpter, Chen, and
+  Do]{ding2024offlattice}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Off-lattice markov chain monte carlo simulations of mechanically
   driven polymers.
 \newblock \emph{Journal of Chemical Theory and Computation}, 20\penalty0
-  (23):\penalty0 10697--10702, 2024{\natexlab{b}}.
+  (23):\penalty0 10697--10702, 2024.
 \newblock DOI:
   \href{https://doi.org/10.1021/acs.jctc.4c01260}{10.1021/acs.jctc.4c01260}.
 
@@ -133,13 +124,23 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock arXiv: \href{https://arxiv.org/abs/2507.09400}{2507.09400}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Tung, Sumpter,
+  Chen, and Do]{ding2024MLsemiflexiblepolymer}
+\textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
+  Changwoo Do.
+\newblock Machine learning inversion from scattering for mechanically driven
+  polymers.
+\newblock \emph{Applied Crystallography}, 2025{\natexlab{f}}.
+\newblock DOI:
+  \href{https://doi.org/10.1107/S160057672500634X}{10.1107/S160057672500634X}.
+
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2025decipheringpolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Deciphering the scattering of mechanically driven polymers using deep
   learning.
 \newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
-  (8):\penalty0 4176--4182, 2025{\natexlab{f}}.
+  (8):\penalty0 4176--4182, 2025{\natexlab{g}}.
 \newblock DOI:
   \href{https://doi.org/10.1021/acs.jctc.5c00409}{10.1021/acs.jctc.5c00409}.
 
