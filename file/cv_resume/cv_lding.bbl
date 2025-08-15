@@ -47,6 +47,14 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock DOI:
   \href{https://doi.org/10.1103/PhysRevApplied.14.054042}{10.1103/PhysRevApplied.14.054042}.
 
+\bibitem[\textbf{Ding} and Do(2025)]{ding2025pdHS}
+\textbf{Lijie} \textbf{Ding} and Changwoo Do.
+\newblock Deciphering the small-angle scattering of polydisperse hard spheres
+  using deep learning.
+\newblock \emph{APL Machine Learning}, 3\penalty0 (3):\penalty0 036112, 08
+  2025.
+\newblock DOI: \href{https://doi.org/10.1063/5.0290589}{10.1063/5.0290589}.
+
 \bibitem[\textbf{Ding} et~al.(2020)\textbf{Ding}, Pelcovits, and
   Powers]{ding2020shapes}
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
@@ -92,7 +100,7 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   \href{https://doi.org/10.1107/S1600576725003280}{10.1107/S1600576725003280}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{b}})\textbf{Ding}, Lu, and
-  Cheung]{ding2025fast}
+  Cheung]{ding2025fastGPRpricing}
 \textbf{Lijie} \textbf{Ding}, Egang Lu, and Kin Cheung.
 \newblock Fast derivative valuation from volatility surfaces using machine
   learning.
@@ -112,35 +120,27 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   Chen, and Changwoo Do.
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
-\newblock \emph{Digital Discovery}, pages~--, 2025{\natexlab{d}}.
+\newblock \emph{Digital Discovery}, 4:\penalty0 2075--2082, 2025{\natexlab{d}}.
 \newblock DOI: \href{https://doi.org/10.1039/D5DD00038F}{10.1039/D5DD00038F}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Tung, Chen, and
-  Do]{ding2025pdHS}
-\textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Wei-Ren Chen, and Changwoo Do.
-\newblock Deciphering the scattering of polydisperse hard spheres using deep
-  learning.
-\newblock \emph{arXiv preprint arXiv:2507.09400}, 2025{\natexlab{e}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2507.09400}{2507.09400}.
-
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Tung, Sumpter,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2024MLsemiflexiblepolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Machine learning inversion from scattering for mechanically driven
   polymers.
-\newblock \emph{Applied Crystallography}, 2025{\natexlab{f}}.
+\newblock \emph{Applied Crystallography}, 2025{\natexlab{e}}.
 \newblock DOI:
   \href{https://doi.org/10.1107/S160057672500634X}{10.1107/S160057672500634X}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Sumpter,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2025decipheringpolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Deciphering the scattering of mechanically driven polymers using deep
   learning.
 \newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
-  (8):\penalty0 4176--4182, 2025{\natexlab{g}}.
+  (8):\penalty0 4176--4182, 2025{\natexlab{f}}.
 \newblock DOI:
   \href{https://doi.org/10.1021/acs.jctc.5c00409}{10.1021/acs.jctc.5c00409}.
 
@@ -165,10 +165,10 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Guan-Rong Huang, Yangyang Wang,
 \newblock DOI: \href{https://doi.org/10.1063/5.0235798}{10.1063/5.0235798}.
 
 \bibitem[Tung et~al.(2025{\natexlab{a}})Tung, \textbf{Ding}, Chang, Huang,
-  Porcar, Wang, Carrillo, Sumpter, Shinohara, Do, et~al.]{tung2025scattering}
+  Porcar, Wang, Carrillo, Sumpter, Shinohara, Do, and Chen]{tung2025scattering}
 Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Ming-Ching Chang, Guan-Rong Huang,
   Lionel Porcar, Yangyang Wang, Jan-Michael~Y Carrillo, Bobby~G Sumpter, Yuya
-  Shinohara, Changwoo Do, et~al.
+  Shinohara, Changwoo Do, and Wei-Ren Chen.
 \newblock Scattering-based structural inversion of soft materials via
   kolmogorov--arnold networks.
 \newblock \emph{The Journal of Chemical Physics}, 162\penalty0 (7),
@@ -190,9 +190,11 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, G-R Huang, Lionel Porcar, Yuya
   Carrillo, Chen, and Do]{tung2025universalGPR}
 Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Yuya Shinohara, Guan-Rong Huang,
   Jan-Michael Carrillo, Wei-Ren Chen, and Changwoo Do.
-\newblock Universal convergence metric for time-resolved neutron scattering.
-\newblock \emph{arXiv preprint arXiv:2505.13512}, 2025{\natexlab{c}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2505.13512}{2505.13512}.
+\newblock A convergence metric for counting statistics in time-resolved small
+  angle neutron scattering.
+\newblock \emph{The Journal of Chemical Physics}, 163\penalty0 (7):\penalty0
+  074107, 08 2025{\natexlab{c}}.
+\newblock DOI: \href{https://doi.org/10.1063/5.0281134}{10.1063/5.0281134}.
 
 \bibitem[Tung et~al.(2025{\natexlab{d}})Tung, Yip, Huang, Porcar, Shinohara,
   Sumpter, \textbf{Ding}, Do, and Chen]{tung2025unlocking}
