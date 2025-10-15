@@ -97,8 +97,8 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   \href{https://doi.org/10.1021/acs.jctc.4c01260}{10.1021/acs.jctc.4c01260}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{a}})\textbf{Ding}, Carrillo, and
-  Changwoo]{ding2025topolyagent}
-\textbf{Lijie} \textbf{Ding}, Jan-Michael Carrillo, and Do~Changwoo.
+  Do]{ding2025topolyagent}
+\textbf{Lijie} \textbf{Ding}, Jan-Michael Carrillo, and Changwoo Do.
 \newblock {ToPolyAgent}: {AI Agents} for coarse-grained topological polymer
   simulations.
 \newblock \emph{arXiv preprint arXiv:2510.12091}, 2025{\natexlab{a}}.
