@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{25}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -218,14 +218,25 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Yuya Shinohara, Guan-Rong Huang,
   074107, 08 2025{\natexlab{c}}.
 \newblock DOI: \href{https://doi.org/10.1063/5.0281134}{10.1063/5.0281134}.
 
-\bibitem[Tung et~al.(2025{\natexlab{d}})Tung, Yip, Huang, Porcar, Shinohara,
+\bibitem[Tung et~al.(2025{\natexlab{d}})Tung, Wang, Carrillo, Shinohara, Chen,
+  Lin, Porcar, Murphy, Huang, \textbf{Ding}, Do, and Chen]{tung2025Bayesian}
+Chi-Huan Tung, Yangyang Wang, Jan-Michael Carrillo, Yuya Shinohara, Chun-Yu
+  Chen, Jhih-Min Lin, Lionel Porcar, Ryan~P. Murphy, Guan-Rong Huang,
+  \textbf{Lijie} \textbf{Ding}, Changwoo Do, and Wei-Ren Chen.
+\newblock Bayesian inference of anisotropic 2d small-angle scattering from
+  sparse measurement.
+\newblock \emph{The Journal of Chemical Physics}, 163\penalty0 (15):\penalty0
+  154103, 10 2025{\natexlab{d}}.
+\newblock DOI: \href{https://doi.org/10.1063/5.0291081}{10.1063/5.0291081}.
+
+\bibitem[Tung et~al.(2025{\natexlab{e}})Tung, Yip, Huang, Porcar, Shinohara,
   Sumpter, \textbf{Ding}, Do, and Chen]{tung2025unlocking}
 Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   Bobby~G Sumpter, \textbf{Lijie} \textbf{Ding}, Changwoo Do, and Wei-Ren Chen.
 \newblock Unlocking hidden information in sparse small-angle neutron scattering
   measurements.
 \newblock \emph{Journal of Colloid and Interface Science}, page 137554,
-  2025{\natexlab{d}}.
+  2025{\natexlab{e}}.
 \newblock DOI:
   \href{https://doi.org/10.1016/j.jcis.2025.137554}{10.1016/j.jcis.2025.137554}.
 
