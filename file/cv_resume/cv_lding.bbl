@@ -11,6 +11,7 @@ Hongyi Du, Jiaqi Su, Jisen Li, \textbf{Lijie} \textbf{Ding}, Yingxuan Yang,
   Peixuan Han, Xiangru Tang, Kunlun Zhu, and Jiaxuan You.
 \newblock Which {LLM} multi-agent protocol to choose?
 \newblock \emph{arXiv preprint arXiv:2510.17149}, 2025.
+\newblock arXiv: \href{https://arxiv.org/abs/2510.17149}{2510.17149}.
 
 \bibitem[El{\c{c}}i et~al.(2018)El{\c{c}}i, Grimm, \textbf{Ding}, Nasrawi,
   Garoni, and Deng]{elcci2018lifted}
@@ -150,11 +151,11 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock arXiv: \href{https://arxiv.org/abs/2505.09744}{2505.09744}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Thomson,
-  Taylor, and Do]{ding2025CanLLMs}
+  Taylor, and Do]{ding2025llms}
 \textbf{Lijie} \textbf{Ding}, Janell Thomson, Jon Taylor, and Changwoo Do.
-\newblock Can {LLMs} assist with proposal selection at large user facilities?
-\newblock 2025{\natexlab{f}}.
-\newblock (in preparation).
+\newblock {LLMs} can assist with proposal selection at large user facilities.
+\newblock \emph{arXiv preprint arXiv:2512.10895}, 2025{\natexlab{f}}.
+\newblock arXiv: \href{https://arxiv.org/abs/2512.10895}{2512.10895}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Carrillo,
   Chen, and Do]{ding2025chargedpolymer}
