@@ -1,12 +1,19 @@
 \documentclass[11pt,letterpaper]{article}
-\usepackage{array, xcolor, lipsum}
-\usepackage[left=0.7in, right=0.7in, top=0.8in, bottom=0.8in]{geometry} % margins
+\usepackage{array, xcolor, lipsum, bibentry}
+\usepackage[left=0.6in, right=0.6in, top=0.5in, bottom=0.5in]{geometry} % margins
 \usepackage{enumitem}
 \usepackage{longtable}
 \usepackage{etaremune}
 \usepackage{hyperref}
 \usepackage{comment}
-\usepackage{bibentry}
+\usepackage{natbib}
+
+
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+
+%\usepackage{bibentry}
 %\usepackage{sectsty}
 %\sectionfont{\fontsize{10}{12}\selectfont}
 
@@ -15,80 +22,113 @@
 \setlength\parindent{0pt}
 
 \begin{document}
-\pagestyle{headings}
-\markright{\textbf{Resume} Prepared \today}
+%\pagestyle{headings}
+\pagestyle{empty}
+%\markright{\textbf{Resume} Prepared \today}
 %\section*{Lijie Ding}
-
 \begin{center}
-    \Large{\textbf{Lijie Ding}} \\
+    \huge{\textbf{Lijie Ding}} \\
 \end{center}
+\vspace*{-0.in}
+%\textbf{Current position}: Associate at Goldman Sachs \\
+\textbf{Contact}: (401)-410-4049, ljding.jobs@gmail.com
+~~\textbf{Link}: \href{https://github.com/ljding94}{Github}, \href{https://www.linkedin.com/in/lijie-ding-305b04171/}{LinkedIn}, \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}
+%\href{https://ljding94.github.io}{Homepage}
+
+\begin{comment}
 \begin{center}
-    \begin{tabular}{l l l l}
-        Ph.D Candidate & (401)-410-4049 & Lijie\_Ding@Brown.edu & \href{https://ljding94.github.io}{Homepage}
+    \begin{tabular}{l l l}
+        Associate at Goldman Sachs & (401)-410-4049 & ljding.jobs@gmail.com \\
+        \href{https://github.com/ljding94}{Github} & \href{https://www.linkedin.com/in/lijie-ding-305b04171/}{LinkedIn} & \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}
+        %\href{https://ljding94.github.io}{Homepage}
     \end{tabular}
 \end{center}
+\end{comment}
 
+\begin{comment}
+\vspace*{-0.1in}
 \section*{Education}
 \vspace*{-0.1in}
-Ph.D. (Physics), Brown University \hfill 2017-2022 \newline
-Research interests: Soft Matter, Computational Physics \newline
+Ph.D. (Physics), Brown University \hfill  10/2022  %10/16/2022
+\newline
+Dissertation: Chiral Liquid Crystals on Deformable Surfaces: A Monte Carlo Study
+\newline
 Advisor: Robert A. Pelcovits and Thomas R. Powers
-\vspace*{-0.05in}
-\\~\\
-B.Sc. (Applied Physics), University of Science and Technology of China \hfill 2013-2017\newline
-Thesis: Irreversible Monte Carlo Algorithms \newline
-Advisor: Youjin Deng
-
-\section*{Experience}
 \vspace*{-0.1in}
-\begin{comment}
-\textbf{Computational fluid dynamics (CFD) simulation of artificial swimmers} \hfill 2021-present
+\\~\\
+B.Sc. (Applied Physics), University of Science and Technology of China (USTC) \hfill 06/2017%06/19/2017
+\newline
+Thesis: Irreversible Monte Carlo Algorithms
+\newline
+Advisor: Youjin Deng
+\end{comment}
+
+% EXPERIENCE
+\vspace*{-0.1in}
+\section*{Experience}
 \vspace*{-0.05in}
-\begin{itemize}
-    \item Designed swimmer model using \emph{Blender}.
-    \item Implemented \emph{OpenFoam} case for the swimmer model using dynamical mesh.
-    \item Carried out CFD simulation and worked closely with experimentalist.
+\textbf{Oak Ridge National Laboratory (ORNL)} \hfill Oak Ridge, TN \\
+\textit{Postdoctoral Research Associate (Neutron Scattering Division)} \hfill May 2024 -- Present
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Multi-Agent Systems:} Developed "SasAgent," a multi-agent AI system used to automate complex small-angle scattering data analysis, integrating domain-specific tools with LLM orchestration.
+    \item \textbf{LLM Application Development:} Engineered "ToPolyAgent" and protocol routing frameworks to assist with coarse-grained topological simulations and user facility proposal selection.
+    \item \textbf{Deep Learning for Inverse Problems:} Designed and trained deep learning models to decipher structural properties of polymers and colloids from scattering data, significantly accelerating analysis speed compared to traditional fitting.
+    \item \textbf{Scientific Machine Learning:} Collaborated on Bayesian inference and Gaussian Process Regression (GPR) models to unlock hidden information in sparse measurement data.
+\end{itemize}
+\vspace{0.05in}
+
+\textbf{Goldman Sachs} \hfill New York, NY \\
+\textit{Vice President, Quantitative Strategist} \hfill Jan 2024 -- May 2024 \\
+\textit{Associate, Quantitative Strategist} \hfill Jun 2022 -- Dec 2023
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Financial Modeling:} Developed and calibrated valuation models for exotic derivatives (Bermudan Swaptions, CMS Binary) and inventory securities.
+    \item \textbf{Data Analysis Pipeline:} Built large-scale attribution analysis tools to track price variance against market consensus and risk factors (IR Basis/Xccy, FX spot).
+    \item \textbf{ML Research:} Conducted research on applying Deep Learning and Machine Learning to option pricing and volatility surfaces, bridging traditional quantitative finance with modern AI techniques.
+    \item \textbf{Statistical Analysis:} Expanded data scope and performed rigorous statistical testing for SOFR-based pricing models.
+\end{itemize}
+\vspace{0.05in}
+
+\textbf{Brown University} \hfill Providence, RI \\
+\textit{Ph.D. Researcher (Computational Physics)} \hfill Sep 2017 -- Jun 2022
+\begin{itemize}[leftmargin=*]
+    \item Developed high-performance C++ simulation frameworks for Monte Carlo studies of soft matter systems.
+    \item Implemented parallel algorithms on HPC clusters (Slurm) and developed Python pipelines for statistical data analysis and visualization.
+\end{itemize}
+
+% SKILLS
+\section*{Technical Skills}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Machine Learning \& AI:} Large Language Models (LLMs), Multi-Agent Systems, Deep Learning (CNNs, MLPs), Gaussian Processes, Bayesian Inference, Generative AI.
+    \item \textbf{Programming \& Data:} Python (PyTorch, NumPy, SciPy, Pandas, Scikit-learn), C++, SQL, Bash.
+    \item \textbf{Tools \& Platforms:} Git, Linux, High-Performance Computing (Slurm), LaTeX.
+    \item \textbf{Domain Knowledge:} Quantitative Finance (Derivatives Pricing), Computational Physics (Monte Carlo), Time Series Analysis.
+\end{itemize}
+
+\begin{comment}
+% SELECTED PUBLICATIONS
+\section*{Selected AI \& ML Publications (2025)}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{L. Ding}, et al. "SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis." \textit{arXiv:2509.05363} (2025).
+    \item \textbf{L. Ding}, et al. "LLMs Can Assist with Proposal Selection at Large User Facilities." \textit{arXiv:2512.10895} (2025).
+    \item \textbf{L. Ding}, et al. "Deep Learning Option Pricing with Market Implied Volatility Surfaces." \textit{arXiv:2509.05911} (2025).
+    \item \textbf{L. Ding}, et al. "ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations." \textit{arXiv:2510.12091} (2025).
+    \item \textbf{L. Ding}, C. Do. "Deciphering the small-angle scattering of polydisperse hard spheres using deep learning." \textit{APL Machine Learning} (2025).
 \end{itemize}
 \end{comment}
-\textbf{Monte Carlo simulation of chiral fluid membrane} \hfill 2018-present
-\vspace*{-0.05in}
-\begin{itemize}
-    \item Designed theoretical \emph{quantitative models} for the colloidal membrane.
-    \item Implemented off-lattice dynamical triangulation simulation from scratch using \emph{C++}.
-    \item Expanded and implemented Lebwhol-Lasher model to the off-lattice setting.
-    \item Carried out simulation on \emph{high performance computing cluster} using \emph{Slurm}, written controlling script using \emph{bash script}.
-    \item Analyzed and visualized data using \emph{Python}, present results to people with different backgrounds.
-\end{itemize}
-\textbf{Controlled DNA Brownian motion using electrokinetic noise} \hfill 2017-2018
-\vspace*{-0.05in}
-\begin{itemize}
-    \item Proposed and tested the \emph{stochastic process} modeling hypothesis using overdamped Langevin equation for the DNA molecule in the microfluidic channel.
-    \item Designed and implemented \emph{image processing} program for fluorescent DNA molecule tracking and selection, and analyzed \emph{time-series} data using \emph{Python} and \emph{OpenCV}.
-\end{itemize}
-\textbf{Irreversible Monte Carlo algorithms} \hfill 2015-2017
-\vspace*{-0.05in}
-\begin{itemize}
-    \item Designed state-of-the-art irreversible Monte Carlo \emph{algorithm} that breaks the detailed balance condition using lifting technique and implemented it using \emph{C++}.
-    \item Carried out \emph{efficiency benchmarking} using Sokal's auto-windowing method, and analyzed data using \emph{Python}, up to 14,100\% improvement were achieved.
-\end{itemize}
-\section*{Skills}
-\vspace*{-0.1in}
-\textbf{Programming}: C++, Python, Mathematica, Matlab, Shell, HTML\&CSS. \newline
-\textbf{Software\&Package}: Blender, Git, OpenFoam, Numpy, Scipy, OpenCV, Matplotlib. \newline
-\textbf{Technical}: Complex systems modeling, Statistical algorithms development, Data analysis and visualization.
+% EDUCATION
+\section*{Education}
+\textbf{Brown University} \hfill Providence, RI \\
+Ph.D. in Physics (Dissertation: Chiral Liquid Crystals on Deformable Surfaces) \hfill 2022 \\
+\textbf{University of Science and Technology of China (USTC)} \hfill Hefei, China \\
+B.Sc. in Applied Physics \hfill 2017
 
-\section*{Publications}
+\begin{comment}
 \vspace*{-0.1in}
-\begin{enumerate}
-    \item Lijie Ding, Robert A. Pelcovits, and Thomas R. Powers. Deformation and orientational order of chiral membranes with free edges. \href{https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00629k}{Soft Matter, 17:6580–6588, 2021}
-    \item Lijie Ding, Robert A Pelcovits, and Thomas R Powers. Shapes of fluid membranes with chiral edges. \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032608}{Physical Review E, 102(3):032608, 2020}
-    \item Shayan Lameh, Lijie Ding, and Derek Stein. Controlled Amplification of DNA Brownian Motion Using Electrokinetic Noise. \href{https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.054042}{Physical Review Applied, 14(5):054042, 2020}
-    \item Eren Metin Elçi, Jens Grimm, Lijie Ding, Abrahim Nasrawi, Timothy M Garoni, and Youjin Deng. Lifted worm algorithm for the Ising model. \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.042126}{Physical Review E, 97(4):042126, 2018}
-\end{enumerate}
+\section*{Awards}
+\vspace*{-0.1in}
+\textbf{Physics}: Dissertation Fellowship(Brown 2021), Grand Price(CUPT 2015), Bronze Medal(CPhO 2012) \newline
+\textbf{General}: National Scholarship (China 2015 and 2016)
+\end{comment}
 
-%\section*{Award}
-%\begin{tabular}{l p{\linewidth}}
-%2015\&2016 & Natinal Scholarship, P.R.China \\
-%\end{tabular}
 
 \end{document}

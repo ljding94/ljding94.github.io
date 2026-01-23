@@ -1,0 +1,94 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{array, xcolor, lipsum}
+\usepackage[left=0.7in, right=0.7in, top=0.8in, bottom=0.8in]{geometry} % margins
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{etaremune}
+\usepackage{hyperref}
+\usepackage{comment}
+\usepackage{bibentry}
+%\usepackage{sectsty}
+%\sectionfont{\fontsize{10}{12}\selectfont}
+
+%\setlist{nosep} % or \setlist{noitemsep} to leave space around whole list
+\setlist{noitemsep}
+\setlength\parindent{0pt}
+
+\begin{document}
+\pagestyle{headings}
+\markright{\textbf{Resume} Prepared \today}
+%\section*{Lijie Ding}
+
+\begin{center}
+    \Large{\textbf{Lijie Ding}} \\
+\end{center}
+\begin{center}
+    \begin{tabular}{l l l l}
+        Ph.D Candidate & (401)-410-4049 & Lijie\_Ding@Brown.edu & \href{https://ljding94.github.io}{Homepage}
+    \end{tabular}
+\end{center}
+
+\section*{Education}
+\vspace*{-0.1in}
+Ph.D. (Physics), Brown University \hfill 2017-2022 \newline
+Research interests: Soft Matter, Computational Physics \newline
+Advisor: Robert A. Pelcovits and Thomas R. Powers
+\vspace*{-0.05in}
+\\~\\
+B.Sc. (Applied Physics), University of Science and Technology of China \hfill 2013-2017\newline
+Thesis: Irreversible Monte Carlo Algorithms \newline
+Advisor: Youjin Deng
+
+\section*{Experience}
+\vspace*{-0.1in}
+\begin{comment}
+\textbf{Computational fluid dynamics (CFD) simulation of artificial swimmers} \hfill 2021-present
+\vspace*{-0.05in}
+\begin{itemize}
+    \item Designed swimmer model using \emph{Blender}.
+    \item Implemented \emph{OpenFoam} case for the swimmer model using dynamical mesh.
+    \item Carried out CFD simulation and worked closely with experimentalist.
+\end{itemize}
+\end{comment}
+\textbf{Monte Carlo simulation of chiral fluid membrane} \hfill 2018-present
+\vspace*{-0.05in}
+\begin{itemize}
+    \item Designed theoretical \emph{quantitative models} for the colloidal membrane.
+    \item Implemented off-lattice dynamical triangulation simulation from scratch using \emph{C++}.
+    \item Expanded and implemented Lebwhol-Lasher model to the off-lattice setting.
+    \item Carried out simulation on \emph{high performance computing cluster} using \emph{Slurm}, written controlling script using \emph{bash script}.
+    \item Analyzed and visualized data using \emph{Python}, present results to people with different backgrounds.
+\end{itemize}
+\textbf{Controlled DNA Brownian motion using electrokinetic noise} \hfill 2017-2018
+\vspace*{-0.05in}
+\begin{itemize}
+    \item Proposed and tested the \emph{stochastic process} modeling hypothesis using overdamped Langevin equation for the DNA molecule in the microfluidic channel.
+    \item Designed and implemented \emph{image processing} program for fluorescent DNA molecule tracking and selection, and analyzed \emph{time-series} data using \emph{Python} and \emph{OpenCV}.
+\end{itemize}
+\textbf{Irreversible Monte Carlo algorithms} \hfill 2015-2017
+\vspace*{-0.05in}
+\begin{itemize}
+    \item Designed state-of-the-art irreversible Monte Carlo \emph{algorithm} that breaks the detailed balance condition using lifting technique and implemented it using \emph{C++}.
+    \item Carried out \emph{efficiency benchmarking} using Sokal's auto-windowing method, and analyzed data using \emph{Python}, up to 14,100\% improvement were achieved.
+\end{itemize}
+\section*{Skills}
+\vspace*{-0.1in}
+\textbf{Programming}: C++, Python, Mathematica, Matlab, Shell, HTML\&CSS. \newline
+\textbf{Software\&Package}: Blender, Git, OpenFoam, Numpy, Scipy, OpenCV, Matplotlib. \newline
+\textbf{Technical}: Complex systems modeling, Statistical algorithms development, Data analysis and visualization.
+
+\section*{Publications}
+\vspace*{-0.1in}
+\begin{enumerate}
+    \item Lijie Ding, Robert A. Pelcovits, and Thomas R. Powers. Deformation and orientational order of chiral membranes with free edges. \href{https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00629k}{Soft Matter, 17:6580–6588, 2021}
+    \item Lijie Ding, Robert A Pelcovits, and Thomas R Powers. Shapes of fluid membranes with chiral edges. \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032608}{Physical Review E, 102(3):032608, 2020}
+    \item Shayan Lameh, Lijie Ding, and Derek Stein. Controlled Amplification of DNA Brownian Motion Using Electrokinetic Noise. \href{https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.054042}{Physical Review Applied, 14(5):054042, 2020}
+    \item Eren Metin Elçi, Jens Grimm, Lijie Ding, Abrahim Nasrawi, Timothy M Garoni, and Youjin Deng. Lifted worm algorithm for the Ising model. \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.042126}{Physical Review E, 97(4):042126, 2018}
+\end{enumerate}
+
+%\section*{Award}
+%\begin{tabular}{l p{\linewidth}}
+%2015\&2016 & Natinal Scholarship, P.R.China \\
+%\end{tabular}
+
+\end{document}
