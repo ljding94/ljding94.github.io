@@ -110,82 +110,83 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock DOI:
   \href{https://doi.org/10.1021/acs.jctc.4c01260}{10.1021/acs.jctc.4c01260}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{a}})\textbf{Ding}, Carrillo, and
-  Do]{ding2025topolyagent}
-\textbf{Lijie} \textbf{Ding}, Jan-Michael Carrillo, and Changwoo Do.
-\newblock {ToPolyAgent}: {AI Agents} for coarse-grained topological polymer
-  simulations.
-\newblock \emph{arXiv preprint arXiv:2510.12091}, 2025{\natexlab{a}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2510.12091}{2510.12091}.
-
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{b}})\textbf{Ding}, Chen, and
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{a}})\textbf{Ding}, Chen, and
   Do]{ding2025shearedcolloids}
 \textbf{Lijie} \textbf{Ding}, Yihao Chen, and Changwoo Do.
 \newblock Machine learning-informed scattering correlation analysis of sheared
   colloids.
 \newblock \emph{Applied Crystallography}, 58\penalty0 (3):\penalty0 992--999,
-  2025{\natexlab{b}}.
+  2025{\natexlab{a}}.
 \newblock DOI:
   \href{https://doi.org/10.1107/S1600576725003280}{10.1107/S1600576725003280}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{c}})\textbf{Ding}, Lu, and
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{b}})\textbf{Ding}, Lu, and
   Cheung]{ding2025dlpricing}
 \textbf{Lijie} \textbf{Ding}, Egang Lu, and Kin Cheung.
 \newblock Deep learning option pricing with market implied volatility surfaces.
-\newblock \emph{arXiv preprint arXiv:2509.05911}, 2025{\natexlab{c}}.
+\newblock \emph{arXiv preprint arXiv:2509.05911}, 2025{\natexlab{b}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2509.05911}{2509.05911}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{d}})\textbf{Ding}, Lu, and
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{c}})\textbf{Ding}, Lu, and
   Cheung]{ding2025fastGPRpricing}
 \textbf{Lijie} \textbf{Ding}, Egang Lu, and Kin Cheung.
 \newblock Fast derivative valuation from volatility surfaces using machine
   learning.
-\newblock \emph{arXiv preprint arXiv:2505.22957}, 2025{\natexlab{d}}.
+\newblock \emph{arXiv preprint arXiv:2505.22957}, 2025{\natexlab{c}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2505.22957}{2505.22957}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Pelcovits, and
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{d}})\textbf{Ding}, Pelcovits, and
   Powers]{ding2025brownian}
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Brownian dynamics simulations of inclusions in an active fluid bath.
-\newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{e}}.
+\newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{d}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2505.09744}{2505.09744}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Thomson,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Thomson,
   Taylor, and Do]{ding2025llms}
 \textbf{Lijie} \textbf{Ding}, Janell Thomson, Jon Taylor, and Changwoo Do.
 \newblock {LLMs} can assist with proposal selection at large user facilities.
-\newblock \emph{arXiv preprint arXiv:2512.10895}, 2025{\natexlab{f}}.
+\newblock \emph{arXiv preprint arXiv:2512.10895}, 2025{\natexlab{e}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2512.10895}{2512.10895}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Carrillo,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Tung, Carrillo,
   Chen, and Do]{ding2025chargedpolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Jan-Michael~Y Carrillo, Wei-Ren
   Chen, and Changwoo Do.
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
-\newblock \emph{Digital Discovery}, 4:\penalty0 2075--2082, 2025{\natexlab{g}}.
+\newblock \emph{Digital Discovery}, 4:\penalty0 2075--2082, 2025{\natexlab{f}}.
 \newblock DOI: \href{https://doi.org/10.1039/D5DD00038F}{10.1039/D5DD00038F}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{h}})\textbf{Ding}, Tung, Sumpter,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2024MLsemiflexiblepolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Machine learning inversion from scattering for mechanically driven
   polymers.
-\newblock \emph{Applied Crystallography}, 2025{\natexlab{h}}.
+\newblock \emph{Applied Crystallography}, 58\penalty0 (5):\penalty0 1526--1532,
+  Oct 2025{\natexlab{g}}.
 \newblock DOI:
   \href{https://doi.org/10.1107/S160057672500634X}{10.1107/S160057672500634X}.
 
-\bibitem[\textbf{Ding} et~al.(2025{\natexlab{i}})\textbf{Ding}, Tung, Sumpter,
+\bibitem[\textbf{Ding} et~al.(2025{\natexlab{h}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2025decipheringpolymer}
 \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Bobby~G Sumpter, Wei-Ren Chen, and
   Changwoo Do.
 \newblock Deciphering the scattering of mechanically driven polymers using deep
   learning.
 \newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
-  (8):\penalty0 4176--4182, 2025{\natexlab{i}}.
+  (8):\penalty0 4176--4182, 2025{\natexlab{h}}.
 \newblock DOI:
   \href{https://doi.org/10.1021/acs.jctc.5c00409}{10.1021/acs.jctc.5c00409}.
+
+\bibitem[\textbf{Ding} et~al.(2026)\textbf{Ding}, Carrillo, and
+  Do]{ding2026topolyagent}
+\textbf{Lijie} \textbf{Ding}, Jan Michael~Y. Carrillo, and Changwoo Do.
+\newblock {ToPolyAgent}: {AI} agents for coarse-grained bead-spring topological
+  polymer simulations.
+\newblock \emph{Digital Discovery}, 2026.
+\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
 
 \bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
   Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
