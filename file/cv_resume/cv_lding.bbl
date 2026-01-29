@@ -63,18 +63,18 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   2025{\natexlab{a}}.
 \newblock DOI: \href{https://doi.org/10.1063/5.0290589}{10.1063/5.0290589}.
 
-\bibitem[\textbf{Ding} and Do(2025{\natexlab{b}})]{ding2025rods}
-\textbf{Lijie} \textbf{Ding} and Changwoo Do.
-\newblock Deep learning the small-angle scattering of polydisperse rods.
-\newblock 2025{\natexlab{b}}.
-\newblock (in preparation).
-
-\bibitem[\textbf{Ding} and Do(2025{\natexlab{c}})]{ding2025sasagent}
+\bibitem[\textbf{Ding} and Do(2025{\natexlab{b}})]{ding2025sasagent}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
 \newblock {SasAgent}: Multi-agent ai system for small-angle scattering data
   analysis.
-\newblock \emph{arXiv preprint arXiv:2509.05363}, 2025{\natexlab{c}}.
+\newblock \emph{arXiv preprint arXiv:2509.05363}, 2025{\natexlab{b}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2509.05363}{2509.05363}.
+
+\bibitem[\textbf{Ding} and Do(2026)]{ding2026rods}
+\textbf{Lijie} \textbf{Ding} and Changwoo Do.
+\newblock Deep learning the small-angle scattering of polydisperse hard rods.
+\newblock \emph{arXiv preprint arXiv:2601.20033}, 2026.
+\newblock arXiv: \href{https://arxiv.org/abs/2601.20033}{2601.20033}.
 
 \bibitem[\textbf{Ding} et~al.(2020)\textbf{Ding}, Pelcovits, and
   Powers]{ding2020shapes}
