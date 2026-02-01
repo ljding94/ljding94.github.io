@@ -1,134 +1,108 @@
 \documentclass[11pt,letterpaper]{article}
 \usepackage{array, xcolor, lipsum, bibentry}
-\usepackage[left=0.6in, right=0.6in, top=0.5in, bottom=0.5in]{geometry} % margins
+\usepackage[left=0.5in, right=0.5in, top=0.5in, bottom=0.5in]{geometry} % margins
 \usepackage{enumitem}
 \usepackage{longtable}
 \usepackage{etaremune}
 \usepackage{hyperref}
 \usepackage{comment}
 \usepackage{natbib}
+\usepackage{multirow}
 
 
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{titlesec}
 
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+    linkcolor=blue,
+    citecolor=blue
+}
+
 %\usepackage{bibentry}
 %\usepackage{sectsty}
 %\sectionfont{\fontsize{10}{12}\selectfont}
 
 %\setlist{nosep} % or \setlist{noitemsep} to leave space around whole list
-\setlist{noitemsep}
+\setlist[itemize]{noitemsep, leftmargin=*, label={}} %, topsep=0pt, partopsep=0pt, parsep=0pt, botsep=10pt}
 \setlength\parindent{0pt}
+
+% --- titlesec spacing (compact section headings) ---
+% Format: \titlespacing*{command}{left}{before-sep}{after-sep}
+\titlespacing*{\section}{0pt}{0.6ex plus .2ex minus .2ex}{0.3ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{0.6ex plus .2ex minus .2ex}{0.2ex plus .2ex}
+
 
 \begin{document}
 %\pagestyle{headings}
 \pagestyle{empty}
 %\markright{\textbf{Resume} Prepared \today}
 %\section*{Lijie Ding}
-\begin{center}
-    \huge{\textbf{Lijie Ding}} \\
-\end{center}
-\vspace*{-0.in}
-%\textbf{Current position}: Associate at Goldman Sachs \\
-\textbf{Contact}: (401)-410-4049, ljding.jobs@gmail.com
-~~\textbf{Link}: \href{https://github.com/ljding94}{Github}, \href{https://www.linkedin.com/in/lijie-ding-305b04171/}{LinkedIn}, \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}
-%\href{https://ljding94.github.io}{Homepage}
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\multirow{2}{*}{{\Huge\textbf{Lijie Ding}}} & \textbf{Contact}: (401)-410-4049, ljding.jobs@gmail.com\\
+ & \textbf{For more}: \href{https://github.com/ljding94}{Github}, \href{https://www.linkedin.com/in/lijie-ding-305b04171/}{LinkedIn}, \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}, \href{https://ljding94.github.io/file/cv_resume/cv_lding.pdf}{CV}\\
+\end{tabular*}
 
-\begin{comment}
-\begin{center}
-    \begin{tabular}{l l l}
-        Associate at Goldman Sachs & (401)-410-4049 & ljding.jobs@gmail.com \\
-        \href{https://github.com/ljding94}{Github} & \href{https://www.linkedin.com/in/lijie-ding-305b04171/}{LinkedIn} & \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}
-        %\href{https://ljding94.github.io}{Homepage}
-    \end{tabular}
-\end{center}
-\end{comment}
-
-\begin{comment}
-\vspace*{-0.1in}
-\section*{Education}
-\vspace*{-0.1in}
-Ph.D. (Physics), Brown University \hfill  10/2022  %10/16/2022
-\newline
-Dissertation: Chiral Liquid Crystals on Deformable Surfaces: A Monte Carlo Study
-\newline
-Advisor: Robert A. Pelcovits and Thomas R. Powers
-\vspace*{-0.1in}
-\\~\\
-B.Sc. (Applied Physics), University of Science and Technology of China (USTC) \hfill 06/2017%06/19/2017
-\newline
-Thesis: Irreversible Monte Carlo Algorithms
-\newline
-Advisor: Youjin Deng
-\end{comment}
-
-% EXPERIENCE
-\vspace*{-0.1in}
-\section*{Experience}
-\vspace*{-0.05in}
-\textbf{Oak Ridge National Laboratory (ORNL)} \hfill Oak Ridge, TN \\
-\textit{Postdoctoral Research Associate (Neutron Scattering Division)} \hfill May 2024 -- Present
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Multi-Agent Systems:} Developed "SasAgent," a multi-agent AI system used to automate complex small-angle scattering data analysis, integrating domain-specific tools with LLM orchestration.
-    \item \textbf{LLM Application Development:} Engineered "ToPolyAgent" and protocol routing frameworks to assist with coarse-grained topological simulations and user facility proposal selection.
-    \item \textbf{Deep Learning for Inverse Problems:} Designed and trained deep learning models to decipher structural properties of polymers and colloids from scattering data, significantly accelerating analysis speed compared to traditional fitting.
-    \item \textbf{Scientific Machine Learning:} Collaborated on Bayesian inference and Gaussian Process Regression (GPR) models to unlock hidden information in sparse measurement data.
-\end{itemize}
-\vspace{0.05in}
-
-\textbf{Goldman Sachs} \hfill New York, NY \\
-\textit{Vice President, Quantitative Strategist} \hfill Jan 2024 -- May 2024 \\
-\textit{Associate, Quantitative Strategist} \hfill Jun 2022 -- Dec 2023
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Financial Modeling:} Developed and calibrated valuation models for exotic derivatives (Bermudan Swaptions, CMS Binary) and inventory securities.
-    \item \textbf{Data Analysis Pipeline:} Built large-scale attribution analysis tools to track price variance against market consensus and risk factors (IR Basis/Xccy, FX spot).
-    \item \textbf{ML Research:} Conducted research on applying Deep Learning and Machine Learning to option pricing and volatility surfaces, bridging traditional quantitative finance with modern AI techniques.
-    \item \textbf{Statistical Analysis:} Expanded data scope and performed rigorous statistical testing for SOFR-based pricing models.
-\end{itemize}
-\vspace{0.05in}
-
-\textbf{Brown University} \hfill Providence, RI \\
-\textit{Ph.D. Researcher (Computational Physics)} \hfill Sep 2017 -- Jun 2022
-\begin{itemize}[leftmargin=*]
-    \item Developed high-performance C++ simulation frameworks for Monte Carlo studies of soft matter systems.
-    \item Implemented parallel algorithms on HPC clusters (Slurm) and developed Python pipelines for statistical data analysis and visualization.
-\end{itemize}
 
 % SKILLS
-\section*{Technical Skills}
+\section*{Skills}
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Machine Learning \& AI:} Large Language Models (LLMs), Multi-Agent Systems, Deep Learning (CNNs, MLPs), Gaussian Processes, Bayesian Inference, Generative AI.
-    \item \textbf{Programming \& Data:} Python (PyTorch, NumPy, SciPy, Pandas, Scikit-learn), C++, SQL, Bash.
-    \item \textbf{Tools \& Platforms:} Git, Linux, High-Performance Computing (Slurm), LaTeX.
-    \item \textbf{Domain Knowledge:} Quantitative Finance (Derivatives Pricing), Computational Physics (Monte Carlo), Time Series Analysis.
+    \item \textbf{Scientific Computing:} Monte Carlo (MC), Molecular Dynamics (MD), LAMMPS, HOOMD-blue, HPC, Slurm
+    \item \textbf{Programming:} Python (PyTorch, CrewAI, LangChain, NumPy, Pandas, Scikit-learn), C/C++, CUDA, SQL
+    \item \textbf{Domain Knowledge:} Agentic AI, Large Language Models (LLMs), Deep Learning (DL), Machine Learning (ML), Physics-informed ML, Computational Physics, Small-Angle Scattering (SAS), Quantitative Finance
 \end{itemize}
 
-\begin{comment}
-% SELECTED PUBLICATIONS
-\section*{Selected AI \& ML Publications (2025)}
+% EXPERIENCE
+\section*{Experience}
+\textbf{Oak Ridge National Laboratory (ORNL)} \hfill Oak Ridge, TN \\
+\textit{Postdoctoral Research Associate} \hfill May 2024 -- Present
 \begin{itemize}[leftmargin=*]
-    \item \textbf{L. Ding}, et al. "SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis." \textit{arXiv:2509.05363} (2025).
-    \item \textbf{L. Ding}, et al. "LLMs Can Assist with Proposal Selection at Large User Facilities." \textit{arXiv:2512.10895} (2025).
-    \item \textbf{L. Ding}, et al. "Deep Learning Option Pricing with Market Implied Volatility Surfaces." \textit{arXiv:2509.05911} (2025).
-    \item \textbf{L. Ding}, et al. "ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations." \textit{arXiv:2510.12091} (2025).
-    \item \textbf{L. Ding}, C. Do. "Deciphering the small-angle scattering of polydisperse hard spheres using deep learning." \textit{APL Machine Learning} (2025).
+    \item \textbf{Agentic AI for Science:} Engineered multi-agent systems (CrewAI, LangChain, and OpenCode) to orchestrate complex scientific workflows such as SAS data analysis, MD (LAMMPS) and MC (HOOMD-blue) simulations.
+
+    \item \textbf{LLM Application:} Architected an LLM-driven proposal review pipeline using pairwise preference and AI-as-a-judge, achieved 800$\times$ cost reduction while maintaining review performance for Spallation Neutron Source.
+
+    \item \textbf{AI for Characterization:} Developed and trained physics-informed ML/DL models (e.g., Gaussian process regression, Bayesian inference, VAEs, CNNs) to extract hidden information from SAS, applied to colloids, polymers, lamellae, and polydisperse systems.
+
+    \item \textbf{Scientific Computing:} Developed MD/MC simulations using C++, Python, LAMMPS, and HOOMD-blue for colloids, polymers, active fluid and rheology systems.
 \end{itemize}
-\end{comment}
+
+\textbf{Goldman Sachs} \hfill New York, NY \\
+\textit{Quantitative Strategist, Vice President (Jan24-May24), Associate (Jun22-Dec 23)} \hfill Jan 2024 -- May 2024
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Model Development:} Owned the full lifecycle development of proprietary production valuation models, ensuring high reliability and performance for interest rate (IR) derivative pricing. Executed the SOFR transition for IR products and conducted statistical validation for SOFR-based pricing.
+
+    \item \textbf{Large-Scale Attribution Analysis:} Built analysis pipelines to explain price variance vs. market consensus and decompose moves into key risk factors for multi-billion-dollar inventory instruments.
+\end{itemize}
+
+
+\textbf{Brown University} \hfill Providence, RI \\
+\textit{Ph.D. Research Assistant} \hfill Sep 2017 -- Jun 2022
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Scientific Computing:} Developed high-performance MC simulations for colloidal membranes in C++. Performed mathematical modeling and numerical studies in Python.
+    \item \textbf{Scientific Data Analysis:} Developed OpenCV-based image analysis tools for DNA Brownian motion and performed time series analysis.
+\end{itemize}
+
+
+% SELECTED PUBLICATIONS
+\section*{Publications}
+\bibliographystyle{plainnat}
+\nobibliography{publication}
+\begin{itemize}[leftmargin=*, label={}]
+    \item \bibentry{ding2026topolyagent}
+    \item \bibentry{ding2025llms}
+    \item \bibentry{ding2025pdHS}
+    %\item \bibentry{ding2025ladderpolymer}
+    \item \textbf{More:} full list can be found at \href{https://scholar.google.com/citations?user=i-U0wBsAAAAJ&hl=en&oi=ao}{Google Scholar}, or \href{https://ljding94.github.io/file/cv_resume/cv_lding.pdf}{CV}
+\end{itemize}
+
 % EDUCATION
 \section*{Education}
 \textbf{Brown University} \hfill Providence, RI \\
 Ph.D. in Physics (Dissertation: Chiral Liquid Crystals on Deformable Surfaces) \hfill 2022 \\
 \textbf{University of Science and Technology of China (USTC)} \hfill Hefei, China \\
 B.Sc. in Applied Physics \hfill 2017
-
-\begin{comment}
-\vspace*{-0.1in}
-\section*{Awards}
-\vspace*{-0.1in}
-\textbf{Physics}: Dissertation Fellowship(Brown 2021), Grand Price(CUPT 2015), Bronze Medal(CPhO 2012) \newline
-\textbf{General}: National Scholarship (China 2015 and 2016)
-\end{comment}
 
 
 \end{document}
