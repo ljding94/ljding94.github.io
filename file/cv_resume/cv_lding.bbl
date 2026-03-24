@@ -55,26 +55,26 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock DOI:
   \href{https://doi.org/10.1103/PhysRevApplied.14.054042}{10.1103/PhysRevApplied.14.054042}.
 
-\bibitem[\textbf{Ding} and Do(2025{\natexlab{a}})]{ding2025pdHS}
+\bibitem[\textbf{Ding} and Do(2025)]{ding2025pdHS}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
 \newblock Deciphering the small-angle scattering of polydisperse hard spheres
   using deep learning.
 \newblock \emph{APL Machine Learning}, 3\penalty0 (3):\penalty0 036112, 08
-  2025{\natexlab{a}}.
+  2025.
 \newblock DOI: \href{https://doi.org/10.1063/5.0290589}{10.1063/5.0290589}.
 
-\bibitem[\textbf{Ding} and Do(2025{\natexlab{b}})]{ding2025sasagent}
-\textbf{Lijie} \textbf{Ding} and Changwoo Do.
-\newblock {SasAgent}: Multi-agent ai system for small-angle scattering data
-  analysis.
-\newblock \emph{arXiv preprint arXiv:2509.05363}, 2025{\natexlab{b}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2509.05363}{2509.05363}.
-
-\bibitem[\textbf{Ding} and Do(2026)]{ding2026rods}
+\bibitem[\textbf{Ding} and Do(2026{\natexlab{a}})]{ding2026rods}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
 \newblock Deep learning the small-angle scattering of polydisperse hard rods.
-\newblock \emph{arXiv preprint arXiv:2601.20033}, 2026.
+\newblock \emph{arXiv preprint arXiv:2601.20033}, 2026{\natexlab{a}}.
 \newblock arXiv: \href{https://arxiv.org/abs/2601.20033}{2601.20033}.
+
+\bibitem[\textbf{Ding} and Do(2026{\natexlab{b}})]{ding2026sasagent}
+\textbf{Lijie} \textbf{Ding} and Changwoo Do.
+\newblock {SasAgent}: Multi-agent {AI} system for small-angle scattering data
+  analysis.
+\newblock \emph{Applied Crystallography}, 2026{\natexlab{b}}.
+\newblock (accepted) \href{https://arxiv.org/abs/2509.05363}{arXiv:2509.05363}.
 
 \bibitem[\textbf{Ding} et~al.(2020)\textbf{Ding}, Pelcovits, and
   Powers]{ding2020shapes}
