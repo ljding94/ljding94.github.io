@@ -79,7 +79,7 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \bibitem[\textbf{Ding} et~al.(2020)\textbf{Ding}, Pelcovits, and
   Powers]{ding2020shapes}
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
-\newblock {Shapes of fluid membranes with chiral edges}.
+\newblock Shapes of fluid membranes with chiral edges.
 \newblock \emph{Physical Review E}, 102\penalty0 (3):\penalty0 032608, 2020.
 \newblock DOI:
   \href{https://doi.org/10.1103/PhysRevE.102.032608}{10.1103/PhysRevE.102.032608}.
@@ -182,11 +182,12 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 
 \bibitem[\textbf{Ding} et~al.(2026)\textbf{Ding}, Carrillo, and
   Do]{ding2026topolyagent}
-\textbf{Lijie} \textbf{Ding}, Jan Michael~Y. Carrillo, and Changwoo Do.
+\textbf{Lijie} \textbf{Ding}, Jan-Michael~Y. Carrillo, and Changwoo Do.
 \newblock {ToPolyAgent}: {AI} agents for coarse-grained bead-spring topological
   polymer simulations.
-\newblock \emph{Digital Discovery}, 2026.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
+\newblock \emph{Digital Discovery}, 5:\penalty0 901--909, 2026.
+\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00 \\
+  471C}.
 
 \bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
   Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
