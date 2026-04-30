@@ -5,13 +5,15 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Du et~al.(2025)Du, Su, Li, \textbf{Ding}, Yang, Han, Tang, Zhu, and
-  You]{du2025protocolrouter}
+\bibitem[Du et~al.(2026)Du, Su, Li, \textbf{Ding}, Yang, Han, Tang, Zhu, and
+  You]{du2026protocolrouter}
 Hongyi Du, Jiaqi Su, Jisen Li, \textbf{Lijie} \textbf{Ding}, Yingxuan Yang,
   Peixuan Han, Xiangru Tang, Kunlun Zhu, and Jiaxuan You.
 \newblock Which {LLM} multi-agent protocol to choose?
-\newblock \emph{arXiv preprint arXiv:2510.17149}, 2025.
-\newblock arXiv: \href{https://arxiv.org/abs/2510.17149}{2510.17149}.
+\newblock In \emph{Proceedings of the International Conference on Machine
+  Learning (ICML)}, 2026.
+\newblock OpenReview:
+  \href{https://openreview.net/forum?id=GZRiXE2zBe}{GZRiXE2zBe}.
 
 \bibitem[El{\c{c}}i et~al.(2018)El{\c{c}}i, Grimm, \textbf{Ding}, Nasrawi,
   Garoni, and Deng]{elcci2018lifted}
@@ -188,8 +190,7 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
 \newblock {ToPolyAgent}: {AI} agents for coarse-grained bead-spring topological
   polymer simulations.
 \newblock \emph{Digital Discovery}, 5:\penalty0 901--909, 2026.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00 \\
-  471C}.
+\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
 
 \bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
   Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
