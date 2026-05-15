@@ -5,16 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Du et~al.(2026)Du, Su, Li, \textbf{Ding}, Yang, Han, Tang, Zhu, and
-  You]{du2026protocolrouter}
-Hongyi Du, Jiaqi Su, Jisen Li, \textbf{Lijie} \textbf{Ding}, Yingxuan Yang,
-  Peixuan Han, Xiangru Tang, Kunlun Zhu, and Jiaxuan You.
-\newblock Which {LLM} multi-agent protocol to choose?
-\newblock In \emph{Proceedings of the International Conference on Machine
-  Learning (ICML)}, 2026.
-\newblock OpenReview:
-  \href{https://openreview.net/forum?id=GZRiXE2zBe}{GZRiXE2zBe}.
-
 \bibitem[\textbf{Ding} et~al.(2025)\textbf{Ding}, Thomson, Taylor, and
   Do]{ding2025llms}
 \textbf{Lijie} \textbf{Ding}, Janell Thomson, Jon Taylor, and Changwoo Do.
@@ -29,5 +19,14 @@ Hongyi Du, Jiaqi Su, Jisen Li, \textbf{Lijie} \textbf{Ding}, Yingxuan Yang,
   polymer simulations.
 \newblock \emph{Digital Discovery}, 5:\penalty0 901--909, 2026.
 \newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
+
+\bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
+  Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
+\textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Zhiqiang Cao, Zekun Ye, Xiaodan
+  Gu, Yan Xia, Wei-Ren Chen, and Changwoo Do.
+\newblock Machine learning-assisted profiling of a kinked ladder polymer
+  structure using scattering.
+\newblock \emph{Digital Discovery}, 4:\penalty0 1570--1577, 2025.
+\newblock DOI: \href{https://doi.org/10.1039/D5DD00051C}{10.1039/D5DD00051C}.
 
 \end{thebibliography}
