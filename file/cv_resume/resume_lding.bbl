@@ -1,32 +1,8 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{0}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[\textbf{Ding} et~al.(2025)\textbf{Ding}, Thomson, Taylor, and
-  Do]{ding2025llms}
-\textbf{Lijie} \textbf{Ding}, Janell Thomson, Jon Taylor, and Changwoo Do.
-\newblock {LLMs} can assist with proposal selection at large user facilities.
-\newblock \emph{arXiv preprint arXiv:2512.10895}, 2025.
-\newblock arXiv: \href{https://arxiv.org/abs/2512.10895}{2512.10895}.
-
-\bibitem[\textbf{Ding} et~al.(2026)\textbf{Ding}, Carrillo, and
-  Do]{ding2026topolyagent}
-\textbf{Lijie} \textbf{Ding}, Jan-Michael~Y. Carrillo, and Changwoo Do.
-\newblock {ToPolyAgent}: {AI} agents for coarse-grained bead-spring topological
-  polymer simulations.
-\newblock \emph{Digital Discovery}, 5:\penalty0 901--909, 2026.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
-
-\bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
-  Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
-\textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, Zhiqiang Cao, Zekun Ye, Xiaodan
-  Gu, Yan Xia, Wei-Ren Chen, and Changwoo Do.
-\newblock Machine learning-assisted profiling of a kinked ladder polymer
-  structure using scattering.
-\newblock \emph{Digital Discovery}, 4:\penalty0 1570--1577, 2025.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00051C}{10.1039/D5DD00051C}.
 
 \end{thebibliography}
