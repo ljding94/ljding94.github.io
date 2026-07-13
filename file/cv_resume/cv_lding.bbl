@@ -1,4 +1,4 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -56,6 +56,17 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   2020.
 \newblock DOI:
   \href{https://doi.org/10.1103/PhysRevApplied.14.054042}{10.1103/PhysRevApplied.14.054042}.
+
+\bibitem[Lee et~al.(2026)Lee, Kim, \textbf{Ding}, Li, Kim, Hyun, Kim, Carrillo,
+  and Ahn]{Lee2026alignment}
+Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
+  Min~Chan Kim, Kyu Hyun, Ji~Hoon Kim, Jan-Michael~Y. Carrillo, and Suk-kyun
+  Ahn.
+\newblock Alignment switching in {3D}-printed smectic liquid crystal
+  elastomers.
+\newblock \emph{Nature Communications}, 2026.
+\newblock DOI:
+  \href{https://doi.org/10.1038/s41467-026-75368-z}{10.1038/s41467-026-75368-z}.
 
 \bibitem[\textbf{Ding} and Do(2025)]{ding2025pdHS}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
