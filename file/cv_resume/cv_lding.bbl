@@ -1,9 +1,18 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Do et~al.(2026)Do, \textbf{Ding}, Tung, and
+  Chen]{do2026binningverdict}
+Changwoo Do, \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, and Wei-Ren Chen.
+\newblock binningverdict: a unified decision system for logarithmic versus
+  linear binning of small-angle neutron scattering data.
+\newblock \emph{Computer Physics Communications}, page 110370, 2026.
+\newblock DOI:
+  \href{https://doi.org/10.1016/j.cpc.2026.110370}{10.1016/j.cpc.2026.110370}.
 
 \bibitem[Du et~al.(2026)Du, Su, Li, \textbf{Ding}, Yang, Han, Tang, Zhu, and
   You]{du2026protocolrouter}
