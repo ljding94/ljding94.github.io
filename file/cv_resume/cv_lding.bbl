@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -308,5 +308,28 @@ Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   2025{\natexlab{f}}.
 \newblock DOI:
   \href{https://doi.org/10.1016/j.jcis.2025.137554}{10.1016/j.jcis.2025.137554}.
+
+\bibitem[Tung et~al.(2026{\natexlab{a}})Tung, Do, Shang, \textbf{Ding},
+  Carrillo, Huang, and Chen]{tung2026constrained}
+Chi-Huan Tung, Changwoo Do, Yingrui Shang, \textbf{Lijie} \textbf{Ding},
+  Jan-Michael Carrillo, Guan-Rong Huang, and Wei-Ren Chen.
+\newblock Constrained variational optimization of counting-time allocation in
+  sequential scattering measurements: Application to bonse-hart usans.
+\newblock \emph{The Journal of Chemical Physics}, 165\penalty0 (10):\penalty0
+  104114, 09 2026{\natexlab{a}}.
+\newblock ISSN 0021-9606.
+\newblock DOI: \href{https://doi.org/10.1063/5.0345758}{10.1063/5.0345758}.
+
+\bibitem[Tung et~al.(2026{\natexlab{b}})Tung, Do, \textbf{Ding}, Wang,
+  Carrillo, Shinohara, Porcar, Zhang, Huang, Yip, and
+  Chen]{Tung2026optimalbinning}
+Chi-Huan Tung, Changwoo Do, \textbf{Lijie} \textbf{Ding}, Yangyang Wang,
+  Jan-Michael Carrillo, Yuya Shinohara, Lionel Porcar, Donghui Zhang, Guan-Rong
+  Huang, Sidney Yip, and Wei-Ren Chen.
+\newblock Optimal binning of correlated measurements.
+\newblock \emph{The Journal of Chemical Physics}, 165\penalty0 (10):\penalty0
+  104115, 09 2026{\natexlab{b}}.
+\newblock ISSN 0021-9606.
+\newblock DOI: \href{https://doi.org/10.1063/5.0334764}{10.1063/5.0334764}.
 
 \end{thebibliography}
