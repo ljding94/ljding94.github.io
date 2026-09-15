@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,7 +11,7 @@ Changwoo Do, \textbf{Lijie} \textbf{Ding}, Chi-Huan Tung, and Wei-Ren Chen.
 \newblock binningverdict: a unified decision system for logarithmic versus
   linear binning of small-angle neutron scattering data.
 \newblock \emph{Computer Physics Communications}, page 110370, 2026.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1016/j.cpc.2026.110370}{10.1016/j.cpc.2026.110370}.
 
 \bibitem[Du et~al.(2026)Du, Su, Li, \textbf{Ding}, Yang, Han, Tang, Zhu, and
@@ -21,8 +21,7 @@ Hongyi Du, Jiaqi Su, Jisen Li, \textbf{Lijie} \textbf{Ding}, Yingxuan Yang,
 \newblock Which {LLM} multi-agent protocol to choose?
 \newblock In \emph{Proceedings of the International Conference on Machine
   Learning (ICML)}, 2026.
-\newblock OpenReview:
-  \href{https://openreview.net/forum?id=GZRiXE2zBe}{GZRiXE2zBe}.
+\newblock \href{https://openreview.net/forum?id=GZRiXE2zBe}{GZRiXE2zBe}.
 
 \bibitem[El{\c{c}}i et~al.(2018)El{\c{c}}i, Grimm, \textbf{Ding}, Nasrawi,
   Garoni, and Deng]{elcci2018lifted}
@@ -30,7 +29,7 @@ Eren~Metin El{\c{c}}i, Jens Grimm, \textbf{Lijie} \textbf{Ding}, Abrahim
   Nasrawi, Timothy~M Garoni, and Youjin Deng.
 \newblock {Lifted worm algorithm for the Ising model}.
 \newblock \emph{Physical Review E}, 97\penalty0 (4):\penalty0 042126, 2018.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1103/PhysRevE.97.042126}{10.1103/PhysRevE.97.042126}.
 
 \bibitem[Huang et~al.(2025)Huang, Porcar, Murphy, Shinohara, Wang, Carrillo,
@@ -42,7 +41,7 @@ Guan-Rong Huang, Lionel Porcar, Ryan~P Murphy, Yuya Shinohara, Yangyang Wang,
   investigations.
 \newblock \emph{Applied Crystallography}, 58\penalty0 (3):\penalty0 637--658,
   2025.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1107/S1600576725002900}{10.1107/S1600576725002900}.
 
 \bibitem[Khan et~al.(2019)Khan, Qaiser, Shaikh, \textbf{Ding}, and
@@ -53,7 +52,7 @@ Sherjeel~M Khan, Nadeem Qaiser, Sohail~F Shaikh, \textbf{Lijie} \textbf{Ding},
   medication adherence.
 \newblock \emph{Flexible and Printed Electronics}, 4\penalty0 (2):\penalty0
   025001, 2019.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1088/2058-8585/ab10f5}{10.1088/2058-8585/ab10f5}.
 
 \bibitem[Lameh et~al.(2020)Lameh, \textbf{Ding}, and
@@ -63,7 +62,7 @@ Shayan Lameh, \textbf{Lijie} \textbf{Ding}, and Derek Stein.
   Noise}.
 \newblock \emph{Physical Review Applied}, 14\penalty0 (5):\penalty0 054042,
   2020.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1103/PhysRevApplied.14.054042}{10.1103/PhysRevApplied.14.054042}.
 
 \bibitem[Lee et~al.(2026)Lee, Kim, \textbf{Ding}, Li, Kim, Hyun, Kim, Carrillo,
@@ -74,7 +73,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock Alignment switching in {3D}-printed smectic liquid crystal
   elastomers.
 \newblock \emph{Nature Communications}, 2026.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1038/s41467-026-75368-z}{10.1038/s41467-026-75368-z}.
 
 \bibitem[\textbf{Ding} and Do(2025)]{ding2025pdHS}
@@ -83,7 +82,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   using deep learning.
 \newblock \emph{APL Machine Learning}, 3\penalty0 (3):\penalty0 036112, 08
   2025.
-\newblock DOI: \href{https://doi.org/10.1063/5.0290589}{10.1063/5.0290589}.
+\newblock \href{https://doi.org/10.1063/5.0290589}{10.1063/5.0290589}.
 
 \bibitem[\textbf{Ding} and Do(2026{\natexlab{a}})]{ding2026colpack}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
@@ -91,7 +90,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   workflows for colloidal packing.
 \newblock \emph{Digital Discovery}, 07 2026{\natexlab{a}}.
 \newblock ISSN 2635-098X.
-\newblock DOI: \href{https://doi.org/10.1039/D6DD00285D}{10.1039/D6DD00285D}.
+\newblock \href{https://doi.org/10.1039/D6DD00285D}{10.1039/D6DD00285D}.
 
 \bibitem[\textbf{Ding} and Do(2026{\natexlab{b}})]{ding2026rods}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
@@ -99,7 +98,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock \emph{AIP Advances}, 16\penalty0 (7):\penalty0 075019, 07
   2026{\natexlab{b}}.
 \newblock ISSN 2158-3226.
-\newblock DOI: \href{https://doi.org/10.1063/5.0324884}{10.1063/5.0324884}.
+\newblock \href{https://doi.org/10.1063/5.0324884}{10.1063/5.0324884}.
 
 \bibitem[\textbf{Ding} and Do(2026{\natexlab{c}})]{ding2026sasagent}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
@@ -115,7 +114,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Shapes of fluid membranes with chiral edges.
 \newblock \emph{Physical Review E}, 102\penalty0 (3):\penalty0 032608, 2020.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1103/PhysRevE.102.032608}{10.1103/PhysRevE.102.032608}.
 
 \bibitem[\textbf{Ding} et~al.(2021)\textbf{Ding}, Pelcovits, and
@@ -124,14 +123,14 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock {Deformation and orientational order of chiral membranes with free
   edges}.
 \newblock \emph{Soft Matter}, 17:\penalty0 6580--6588, 2021.
-\newblock DOI: \href{https://doi.org/10.1039/D1SM00629K}{10.1039/D1SM00629K}.
+\newblock \href{https://doi.org/10.1039/D1SM00629K}{10.1039/D1SM00629K}.
 
 \bibitem[\textbf{Ding} et~al.(2023)\textbf{Ding}, Pelcovits, and
   Powers]{ding2023chiral}
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Chiral fluid membranes with orientational order and multiple edges.
 \newblock \emph{Soft Matter}, 19\penalty0 (43):\penalty0 8453--8464, 2023.
-\newblock DOI: \href{https://doi.org/10.1039/D3SM01158E}{10.1039/D3SM01158E}.
+\newblock \href{https://doi.org/10.1039/D3SM01158E}{10.1039/D3SM01158E}.
 
 \bibitem[\textbf{Ding} et~al.(2024)\textbf{Ding}, Tung, Sumpter, Chen, and
   Do]{ding2024offlattice}
@@ -141,7 +140,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   driven polymers.
 \newblock \emph{Journal of Chemical Theory and Computation}, 20\penalty0
   (23):\penalty0 10697--10702, 2024.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1021/acs.jctc.4c01260}{10.1021/acs.jctc.4c01260}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{a}})\textbf{Ding}, Chen, and
@@ -151,7 +150,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   colloids.
 \newblock \emph{Applied Crystallography}, 58\penalty0 (3):\penalty0 992--999,
   2025{\natexlab{a}}.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1107/S1600576725003280}{10.1107/S1600576725003280}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{b}})\textbf{Ding}, Lu, and
@@ -159,7 +158,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \textbf{Lijie} \textbf{Ding}, Egang Lu, and Kin Cheung.
 \newblock Deep learning option pricing with market implied volatility surfaces.
 \newblock \emph{arXiv preprint arXiv:2509.05911}, 2025{\natexlab{b}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2509.05911}{2509.05911}.
+\newblock \href{https://arxiv.org/abs/2509.05911}{2509.05911}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{c}})\textbf{Ding}, Lu, and
   Cheung]{ding2025fastGPRpricing}
@@ -167,21 +166,22 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock Fast derivative valuation from volatility surfaces using machine
   learning.
 \newblock \emph{arXiv preprint arXiv:2505.22957}, 2025{\natexlab{c}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2505.22957}{2505.22957}.
+\newblock \href{https://arxiv.org/abs/2505.22957}{2505.22957}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{d}})\textbf{Ding}, Pelcovits, and
   Powers]{ding2025brownian}
 \textbf{Lijie} \textbf{Ding}, Robert~A Pelcovits, and Thomas~R Powers.
 \newblock Brownian dynamics simulations of inclusions in an active fluid bath.
 \newblock \emph{arXiv preprint arXiv:2505.09744}, 2025{\natexlab{d}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2505.09744}{2505.09744}.
+\newblock \href{https://arxiv.org/abs/2505.09744}{2505.09744}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{e}})\textbf{Ding}, Thomson,
   Taylor, and Do]{ding2025llms}
 \textbf{Lijie} \textbf{Ding}, Janell Thomson, Jon Taylor, and Changwoo Do.
 \newblock {LLMs} can assist with proposal selection at large user facilities.
 \newblock \emph{arXiv preprint arXiv:2512.10895}, 2025{\natexlab{e}}.
-\newblock arXiv: \href{https://arxiv.org/abs/2512.10895}{2512.10895}.
+\newblock \href{https://arxiv.org/abs/2512.10895}{2512.10895} (accepted by
+  Scientific Reports).
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{f}})\textbf{Ding}, Tung, Carrillo,
   Chen, and Do]{ding2025chargedpolymer}
@@ -190,7 +190,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock Machine learning inversion from small-angle scattering for charged
   polymers.
 \newblock \emph{Digital Discovery}, 4:\penalty0 2075--2082, 2025{\natexlab{f}}.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00038F}{10.1039/D5DD00038F}.
+\newblock \href{https://doi.org/10.1039/D5DD00038F}{10.1039/D5DD00038F}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{g}})\textbf{Ding}, Tung, Sumpter,
   Chen, and Do]{ding2024MLsemiflexiblepolymer}
@@ -200,7 +200,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   polymers.
 \newblock \emph{Applied Crystallography}, 58\penalty0 (5):\penalty0 1526--1532,
   Oct 2025{\natexlab{g}}.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1107/S160057672500634X}{10.1107/S160057672500634X}.
 
 \bibitem[\textbf{Ding} et~al.(2025{\natexlab{h}})\textbf{Ding}, Tung, Sumpter,
@@ -211,7 +211,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   learning.
 \newblock \emph{Journal of Chemical Theory and Computation}, 21\penalty0
   (8):\penalty0 4176--4182, 2025{\natexlab{h}}.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1021/acs.jctc.5c00409}{10.1021/acs.jctc.5c00409}.
 
 \bibitem[\textbf{Ding} et~al.(2026)\textbf{Ding}, Carrillo, and
@@ -220,7 +220,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock {ToPolyAgent}: {AI} agents for coarse-grained bead-spring topological
   polymer simulations.
 \newblock \emph{Digital Discovery}, 5:\penalty0 901--909, 2026.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
+\newblock \href{https://doi.org/10.1039/D5DD00471C}{10.1039/D5DD00471C}.
 
 \bibitem[\textbf{Lijie} \textbf{Ding} et~al.(2025)\textbf{Lijie} \textbf{Ding},
   Tung, Cao, Ye, Gu, Xia, Chen, and Do]{ding2025ladderpolymer}
@@ -229,7 +229,7 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock Machine learning-assisted profiling of a kinked ladder polymer
   structure using scattering.
 \newblock \emph{Digital Discovery}, 4:\penalty0 1570--1577, 2025.
-\newblock DOI: \href{https://doi.org/10.1039/D5DD00051C}{10.1039/D5DD00051C}.
+\newblock \href{https://doi.org/10.1039/D5DD00051C}{10.1039/D5DD00051C}.
 
 \bibitem[Tung et~al.(2024)Tung, \textbf{Ding}, Huang, Wang, Carrillo, Sumpter,
   Shinohara, Do, and Chen]{Tung2024Adiscretized}
@@ -240,7 +240,7 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Guan-Rong Huang, Yangyang Wang,
   semiflexible chains.
 \newblock \emph{The Journal of Chemical Physics}, 161\penalty0 (22):\penalty0
   224107, 12 2024.
-\newblock DOI: \href{https://doi.org/10.1063/5.0235798}{10.1063/5.0235798}.
+\newblock \href{https://doi.org/10.1063/5.0235798}{10.1063/5.0235798}.
 
 \bibitem[Tung et~al.(2025{\natexlab{a}})Tung, Huang, Hoffmann, Falus, Farago,
   Porcar, Ehlers, Shinohara, Carrillo, Wang, Yip, Zolnierczuk, \textbf{Ding},
@@ -253,7 +253,7 @@ Chi-Huan Tung, Guan-Rong Huang, Ingo Hoffmann, Péter Falus, Bela Farago,
   measurement.
 \newblock \emph{The Journal of Chemical Physics}, 163\penalty0 (23):\penalty0
   234105, 12 2025{\natexlab{a}}.
-\newblock DOI: \href{https://doi.org/10.1063/5.0301962}{10.1063/5.0301962}.
+\newblock \href{https://doi.org/10.1063/5.0301962}{10.1063/5.0301962}.
 
 \bibitem[Tung et~al.(2025{\natexlab{b}})Tung, \textbf{Ding}, Chang, Huang,
   Porcar, Wang, Carrillo, Sumpter, Shinohara, Do, and Chen]{tung2025scattering}
@@ -264,7 +264,7 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Ming-Ching Chang, Guan-Rong Huang,
   kolmogorov--arnold networks.
 \newblock \emph{The Journal of Chemical Physics}, 162\penalty0 (7),
   2025{\natexlab{b}}.
-\newblock DOI: \href{https://doi.org/10.1063/5.0253877}{10.1063/5.0253877}.
+\newblock \href{https://doi.org/10.1063/5.0253877}{10.1063/5.0253877}.
 
 \bibitem[Tung et~al.(2025{\natexlab{c}})Tung, \textbf{Ding}, Huang, Porcar,
   Shinohara, Sumpter, Do, and Chen]{tung2025insights}
@@ -274,7 +274,7 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, G-R Huang, Lionel Porcar, Yuya
   and machine learning.
 \newblock \emph{Applied Crystallography}, 58\penalty0 (2):\penalty0 523--534,
   2025{\natexlab{c}}.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1107/S1600576725000317}{10.1107/S1600576725000317}.
 
 \bibitem[Tung et~al.(2025{\natexlab{d}})Tung, \textbf{Ding}, Shinohara, Huang,
@@ -285,7 +285,7 @@ Chi-Huan Tung, \textbf{Lijie} \textbf{Ding}, Yuya Shinohara, Guan-Rong Huang,
   angle neutron scattering.
 \newblock \emph{The Journal of Chemical Physics}, 163\penalty0 (7):\penalty0
   074107, 08 2025{\natexlab{d}}.
-\newblock DOI: \href{https://doi.org/10.1063/5.0281134}{10.1063/5.0281134}.
+\newblock \href{https://doi.org/10.1063/5.0281134}{10.1063/5.0281134}.
 
 \bibitem[Tung et~al.(2025{\natexlab{e}})Tung, Wang, Carrillo, Shinohara, Chen,
   Lin, Porcar, Murphy, Huang, \textbf{Ding}, Do, and Chen]{tung2025Bayesian}
@@ -296,7 +296,7 @@ Chi-Huan Tung, Yangyang Wang, Jan-Michael Carrillo, Yuya Shinohara, Chun-Yu
   sparse measurement.
 \newblock \emph{The Journal of Chemical Physics}, 163\penalty0 (15):\penalty0
   154103, 10 2025{\natexlab{e}}.
-\newblock DOI: \href{https://doi.org/10.1063/5.0291081}{10.1063/5.0291081}.
+\newblock \href{https://doi.org/10.1063/5.0291081}{10.1063/5.0291081}.
 
 \bibitem[Tung et~al.(2025{\natexlab{f}})Tung, Yip, Huang, Porcar, Shinohara,
   Sumpter, \textbf{Ding}, Do, and Chen]{tung2025unlocking}
@@ -306,7 +306,7 @@ Chi-Huan Tung, Sidney Yip, Guan-Rong Huang, Lionel Porcar, Yuya Shinohara,
   measurements.
 \newblock \emph{Journal of Colloid and Interface Science}, page 137554,
   2025{\natexlab{f}}.
-\newblock DOI:
+\newblock
   \href{https://doi.org/10.1016/j.jcis.2025.137554}{10.1016/j.jcis.2025.137554}.
 
 \bibitem[Tung et~al.(2026{\natexlab{a}})Tung, Do, Shang, \textbf{Ding},
@@ -318,7 +318,7 @@ Chi-Huan Tung, Changwoo Do, Yingrui Shang, \textbf{Lijie} \textbf{Ding},
 \newblock \emph{The Journal of Chemical Physics}, 165\penalty0 (10):\penalty0
   104114, 09 2026{\natexlab{a}}.
 \newblock ISSN 0021-9606.
-\newblock DOI: \href{https://doi.org/10.1063/5.0345758}{10.1063/5.0345758}.
+\newblock \href{https://doi.org/10.1063/5.0345758}{10.1063/5.0345758}.
 
 \bibitem[Tung et~al.(2026{\natexlab{b}})Tung, Do, \textbf{Ding}, Wang,
   Carrillo, Shinohara, Porcar, Zhang, Huang, Yip, and
@@ -330,6 +330,15 @@ Chi-Huan Tung, Changwoo Do, \textbf{Lijie} \textbf{Ding}, Yangyang Wang,
 \newblock \emph{The Journal of Chemical Physics}, 165\penalty0 (10):\penalty0
   104115, 09 2026{\natexlab{b}}.
 \newblock ISSN 0021-9606.
-\newblock DOI: \href{https://doi.org/10.1063/5.0334764}{10.1063/5.0334764}.
+\newblock \href{https://doi.org/10.1063/5.0334764}{10.1063/5.0334764}.
+
+\bibitem[Wei et~al.(2016)Wei, \textbf{Ding}, Wei, Wang, and
+  Dai]{wei2016trajectory}
+Zhiyuan Wei, \textbf{Lijie} \textbf{Ding}, Kai Wei, Ziwei Wang, and Rucheng
+  Dai.
+\newblock Trajectory prediction of rotating objects in viscous fluid: Based on
+  kinematic investigation of magnus glider.
+\newblock \emph{arXiv preprint arXiv:1610.02768}, 2016.
+\newblock \href{https://arxiv.org/abs/1610.02768}{1610.02768}.
 
 \end{thebibliography}
