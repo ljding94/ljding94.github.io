@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{37}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -92,20 +92,27 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
 \newblock ISSN 2635-098X.
 \newblock \href{https://doi.org/10.1039/D6DD00285D}{10.1039/D6DD00285D}.
 
-\bibitem[\textbf{Ding} and Do(2026{\natexlab{b}})]{ding2026rods}
+\bibitem[\textbf{Ding} and Do(2026{\natexlab{b}})]{ding2026neutron}
+\textbf{Lijie} \textbf{Ding} and Changwoo Do.
+\newblock {NeutronGym}: Physics-graded neutron instrument design for {LLM}
+  agents.
+\newblock \emph{arXiv preprint arXiv:2610.03631}, 2026{\natexlab{b}}.
+\newblock \href{https://arxiv.org/abs/2610.03631}{2610.03631}.
+
+\bibitem[\textbf{Ding} and Do(2026{\natexlab{c}})]{ding2026rods}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
 \newblock Deep learning the small-angle scattering of polydisperse hard rods.
 \newblock \emph{AIP Advances}, 16\penalty0 (7):\penalty0 075019, 07
-  2026{\natexlab{b}}.
+  2026{\natexlab{c}}.
 \newblock ISSN 2158-3226.
 \newblock \href{https://doi.org/10.1063/5.0324884}{10.1063/5.0324884}.
 
-\bibitem[\textbf{Ding} and Do(2026{\natexlab{c}})]{ding2026sasagent}
+\bibitem[\textbf{Ding} and Do(2026{\natexlab{d}})]{ding2026sasagent}
 \textbf{Lijie} \textbf{Ding} and Changwoo Do.
 \newblock {SasAgent}: Multi-agent artificial intelligence system for
   small-angle scattering data analysis.
 \newblock \emph{Applied Crystallography}, 59\penalty0 (2):\penalty0 578--585,
-  Apr 2026{\natexlab{c}}.
+  Apr 2026{\natexlab{d}}.
 \newblock
   \href{https://doi.org/10.1107/S1600576726001299}{10.1107/S1600576726001299}.
 
@@ -230,6 +237,16 @@ Jin-Hyeong Lee, Kyeong~Pyo Kim, \textbf{Lijie} \textbf{Ding}, Michael Li,
   structure using scattering.
 \newblock \emph{Digital Discovery}, 4:\penalty0 1570--1577, 2025.
 \newblock \href{https://doi.org/10.1039/D5DD00051C}{10.1039/D5DD00051C}.
+
+\bibitem[Tower et~al.(2026)Tower, Gassama, Eick, Zhang, \textbf{Ding},
+  Tobochnik, Pelcovits, Kosterlitz, and Ling]{tower2026critical}
+Owen Tower, Abdulai Gassama, Jonah Eick, Han Zhang, \textbf{Lijie}
+  \textbf{Ding}, Jan Tobochnik, Robert~A. Pelcovits, J.~Michael Kosterlitz, and
+  Xinsheng~Sean Ling.
+\newblock Critical temperature of the one-dimensional ising model with
+  inverse-square interactions.
+\newblock \emph{Phys. Rev. E}, 114:\penalty0 044128, Oct 2026.
+\newblock \href{https://doi.org/10.1103/hym1-lmwt}{10.1103/hym1-lmwt}.
 
 \bibitem[Tung et~al.(2024)Tung, \textbf{Ding}, Huang, Wang, Carrillo, Sumpter,
   Shinohara, Do, and Chen]{Tung2024Adiscretized}
