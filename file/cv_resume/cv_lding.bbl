@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -357,5 +357,29 @@ Zhiyuan Wei, \textbf{Lijie} \textbf{Ding}, Kai Wei, Ziwei Wang, and Rucheng
   kinematic investigation of magnus glider.
 \newblock \emph{arXiv preprint arXiv:1610.02768}, 2016.
 \newblock \href{https://arxiv.org/abs/1610.02768}{1610.02768}.
+
+\bibitem[You et~al.(2026)You, Ke, Rosenauer, Liu, Chen, Chen, Xu, Ma, Feng,
+  Chen, Sun, Liu, Guo, Zhou, Huang, Li, Li, Lin, \textbf{Ding}, Zeng, Zhang,
+  Liu, Liu, Li, von Recum, Zhu, Schwarzfischer, Zhao, Wang, Li, Yu, Li, Dai,
+  Wang, Zhang, Sun, Feng, Qin, Yin, Luo, Wu, Pan, Hsieh, Huang, Zhang, Li, Ren,
+  Tu, Choe, Sun, Galia, Mishra, He, Wang, Yang, Gaur, Gu, Wang, Zuo, Dillmann,
+  Sun, Han, Lee, Tao, Zhao, Liu, Wu, Zhao, Li, Brand, Ceder, and
+  Haeffner]{you2026frontier}
+Bingran You, Wenjun Ke, Ria Rosenauer, Bo~Liu, Wenbo Chen, Min Chen, Shuqi Xu,
+  Yue Ma, Jiechao Feng, Bo~Chen, Xiangkai Sun, Jiarui Liu, Jinen Guo, Zeyu
+  Zhou, Xu~Huang, Zhuohan Li, Haoyu Li, Heguang Lin, \textbf{Lijie}
+  \textbf{Ding}, Yadong Zeng, Kangqi Zhang, Xinge Liu, Hanwen Liu, Zhenghong
+  Li, Alexander von Recum, Yuchen Zhu, Felix Schwarzfischer, Yizhou Zhao,
+  Jicheng Wang, Binxu Li, Qian Yu, Chan Li, Cheng Dai, Di~Wang, Haoyu Zhang,
+  Jiankai Sun, Kaituo Feng, Mian Qin, Ruihong Yin, Yiqun Luo, Weiwei Wu,
+  Shihong Pan, Tsung~Yeh Hsieh, Xiao Huang, Yan Zhang, Sihan Li, Zirui Ren,
+  Zengji Tu, Kyoung~Whan Choe, Ke~Sun, Vincenzo Galia, Vaisakhi Mishra, Jiashu
+  He, Hongyang Wang, Zhiheng Yang, Shubham Gaur, Yifan Gu, Shuyi Wang, Zihao
+  Zuo, Steven Dillmann, Yiyou Sun, Xinyang Han, Hanchung Lee, Molei Tao, Yue
+  Zhao, Shilong Liu, Yuchen Wu, Xuandong Zhao, Xiangyi Li, Florian Brand,
+  Gerbrand Ceder, and Hartmut Haeffner.
+\newblock Frontierphysics: Evaluating agents for end-to-end physics research.
+\newblock \emph{arXiv preprint arXiv:2611.06910}, 2026.
+\newblock \href{https://arxiv.org/abs/2611.06910}{2611.06910}.
 
 \end{thebibliography}
